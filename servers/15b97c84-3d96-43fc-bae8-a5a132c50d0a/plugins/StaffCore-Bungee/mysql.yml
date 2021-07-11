@@ -1,0 +1,8 @@
+MySQL:
+  HOST: 172.18.0.1
+  PORT: '3306'
+  DATABASE: StaffCore
+  USERNAME: plugins
+  PASSWORD: ?6Wb$Ypa!m;-pl
+  useSSL: false
+  verifyServerCertificate: false

@@ -1,0 +1,9 @@
+Banned-Commands:
+  - pl
+  - plugins
+  - gmc
+  - gamemode
+  - op
+  - gm
+  - bukkit:pl
+  - bukkit:plugins

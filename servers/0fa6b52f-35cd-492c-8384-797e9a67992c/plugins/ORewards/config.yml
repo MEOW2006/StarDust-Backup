@@ -1,0 +1,54 @@
+#database:
+#  enable: true # If you do not have it activated, a local database will be used using SQLITE
+#  host: localhost
+#  port: 3306
+#  dbname: ORecompenses
+#  username: user
+#  password: pass
+#
+# Translation by Matilda
+#
+#
+# Plugin Created By OA#6237
+#
+####
+
+menu:
+  title: "&eStarRewards"
+  size: 45
+messages: 
+  reload: "&8&8[&eStarRewards&8] &aConfig reloaded!"
+  permission: "&8&8[&eStarRewards&8] &cYou do not have permission to use this command!"
+  reward-reset-player: "&8&8[&eStarRewards&8] &e<player> &acooldown has been renewed in <reward_displayname>."
+  reward-reset-all: "&8&8[&eStarRewards&8] &aThe cooldown for everyone was reset in <reward_displayname>."
+  reward-list: "&8[&eStarRewards&8] &7ID: <reward_id> &7/ &7Type: &e<reward_type>"
+  help: 
+    - "&8[&eStarRewards&8] &fAliases: &b/orw"
+    - ""
+    - "&8[&eStarRewards&8] &fArguments:"
+    - "&8[&eStarRewards&8] &bmenu - Open recompense menu"
+    - "&8[&eStarRewards&8] &breload - Reload Plugin Configuration"
+    - "&8[&eStarRewards&8] &breset <player/all> <reward_name> - Reset cooldown player"
+    - "&8[&eStarRewards&8] &blist - Get the rewards list"   
+announce-join-rewards:
+  enable: true
+  message:
+    - '&d&lREWARDS &d&m->&r &fYou available &e<reward_availables> reward(s)'
+cooldown-format:
+  day: day
+  days: days
+  hour: hour
+  hours: hours
+  minute: minute
+  minutes: minutes
+  second: second
+  seconds: seconds 
+database:
+  enable: true
+  host: 172.18.0.1
+  port: 3306
+  dbname: ORewards
+  username: plugins
+  password: ?6Wb$Ypa!m;-pl
+
+        

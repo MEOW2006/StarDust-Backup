@@ -1,0 +1,51 @@
+Categories:
+  alphabet:
+    Name: Alphabet
+    Slot: 11
+    Permission: betterheads.category.alphabet
+    Permission-message: '&cYou don''t have access to this category!'
+  animals:
+    Name: Animals
+    Slot: 21
+    Permission: betterheads.category.animals
+    Permission-message: '&cYou don''t have access to this category!'
+  blocks:
+    Name: Blocks
+    Slot: 31
+    Permission: betterheads.category.blocks
+    Permission-message: '&cYou don''t have access to this category!'
+  decoration:
+    Name: Decoration
+    Slot: 33
+    Permission: betterheads.category.decoration
+    Permission-message: '&cYou don''t have access to this category!'
+  food-drinks:
+    Name: Food drinks
+    Slot: 19
+    Permission: betterheads.category.food-drinks
+    Permission-message: '&cYou don''t have access to this category!'
+  humans:
+    Name: Humans
+    Slot: 13
+    Permission: betterheads.category.humans
+    Permission-message: '&cYou don''t have access to this category!'
+  humanoid:
+    Name: Humanoid
+    Slot: 23
+    Permission: betterheads.category.humanoid
+    Permission-message: '&cYou don''t have access to this category!'
+  miscellaneous:
+    Name: Miscellaneous
+    Slot: 25
+    Permission: betterheads.category.miscellaneous
+    Permission-message: '&cYou don''t have access to this category!'
+  monsters:
+    Name: Monsters
+    Slot: 15
+    Permission: betterheads.category.monsters
+    Permission-message: '&cYou don''t have access to this category!'
+  plants:
+    Name: Plants
+    Slot: 29
+    Permission: betterheads.category.plants
+    Permission-message: '&cYou don''t have access to this category!'

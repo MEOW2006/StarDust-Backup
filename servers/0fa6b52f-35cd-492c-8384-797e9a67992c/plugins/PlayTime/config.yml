@@ -1,0 +1,49 @@
+# 
+# Other option people typically do is:
+#    Time-Formats:
+#        Day: 'd'
+#        Hour: 'h'
+#        Minute: 'm'
+#        Second: 's'
+#    Append-Formats-With-An-S: false
+
+messages:
+  PlayTime:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &a%player%&f, your current playtime is &a%playtime%&f.'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  Player-Not-Found:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &fSorry, but that player''s playtime wasn''t found.'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  Other-PlayTime:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &a%player%&f''s playtime is &a%playtime%&f.'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  Player-viewed-your-playtime:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &a%player% &fhas just viewed your playtime.'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  No-Permission:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &fSorry, but you don''t have permission to view other players
+    playtime.'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  PlayTime-Usage:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &fUsage &3&l» &e/playtime &for &e/playtime (player)'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  Reloaded:
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+  - ' &8(&b!&8) &3&l» &fYou''ve &asuccessfully &freloaded the configuration.'
+  - '  &f&m+----&3&m----&f&m----&3&m----&8( &bPlayTime &8)&f&m----&3&m----&f&m----&3&m----+'
+settings:
+  Time-Formats:
+    Day: ' day'
+    Hour: ' hour'
+    Minute: ' minute'
+    Second: ' second'
+  Append-Formats-With-An-S: true
+f080806c-445a-4be2-b068-39eb90fc4b86: 7828260
+1618972e-a455-40ce-95e6-6ac38abf36b3: 15095278
+19d30783-eb36-40eb-a9a2-a5d505a24731: 11764439

@@ -1,0 +1,43 @@
+# Plugin Made By MrIronMan #
+# Discord: MrIronMan#3419 #
+# Spigot: Mher #
+# Configuration File
+
+
+#Default database type is SQLite you can change to MySQL with enable it
+MySQL:
+  #If you are using mysql please make sure you have type host,port,username,database,password correctly
+  Enable: true
+  Host: 172.18.0.1
+  Port: 3306
+  Username: plugins
+  Database: postman
+  Password: "?6Wb$Ypa!m;-pl"
+
+#This is default mail server, you can change this to your own too (Not recommended)
+Mail-Server:
+  Host: "smtp.gmail.com"
+  Port: "587"
+
+#This is email account, you need to setup this yourself with making app using your email
+Email-Account:
+  Email: "example@example.com"
+  Password: "pass"
+
+
+#Here you can put commands when player verifying email address.
+#Remember that this commands running from console :)
+Run-Command-On-Verify: true
+Verify-Email-Commands:
+  - "give %player% minecraft:diamond 2"
+
+#You can change verify and set email commands here.
+Verify-Command: "Verify"
+SetEmail-Command: "SetEmail"
+
+#This is verify code length
+Verify-Code-Length: 6
+Verify-Confirm-Time: 300 #Seconds (5 min)
+
+#Check update on load ?
+Check-Update: true

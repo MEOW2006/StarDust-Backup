@@ -1,0 +1,24 @@
+#=======================================================
+configVersion: 3.2
+#DO NOT CHANGE PLEASE.
+#=======================================================
+#Plugin Page: https://www.spigotmc.org/resources/39103
+#Support: https://bghddevelopment.com/discord
+#=======================================================
+Update:
+  Enabled: true
+#buildmode.update
+#Enables if there is a message on-join when the plugin is outdated.
+#=======================================================
+#Commands:
+#/build - buildmode.toggle
+#/build (playername) - buildmode.others
+#=======================================================
+#Messages:
+InvalidUsage: "&cIncorrect usage! Use this command like this: /build <player>"
+NoPermission: "&c(!) You do not have permisson to use this command!"
+OfflinePlayer: "&cYou can not toggle Build-Mode for a offline player!"
+Enabled: "&7You have &aEnabled &7Build-Mode!"
+Disabled: "&7You have &cDisabled &7Build-Mode!"
+EnabledOther: "&7You have &aEnabled &7Build-Mode for &e%player%"
+DisabledOther: "&7You have &cDisabled &7Build-Mode for &e%player%"

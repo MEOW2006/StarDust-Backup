@@ -1,0 +1,233 @@
+
+debug: false
+newconfig: true
+update-check: true
+prefix: '&6StarDust &e>> &7'
+messages: EN
+join-clear-inventory: false
+join-clear-chat: false
+join-spawn: true
+command-spawn: true
+info-commands: true
+custom-events: true
+menu: true
+disable-daylight-sensor-interaction:
+  enable: true
+  world:
+  - HUB
+disable-dropper-interaction:
+  enable: true
+  world:
+  - HUB
+disable-hopper-interaction:
+  enable: true
+  world:
+  - HUB
+disable-fence-gate-interaction:
+  enable: true
+  world:
+  - HUB
+disable-trapdoor-interaction:
+  enable: true
+  world:
+  - HUB
+disable-button-interaction:
+  enable: true
+  world:
+  - HUB
+disable-dispenser-interaction:
+  enable: true
+  world:
+  - HUB
+disable-noteblock-interaction:
+  enable: true
+  world:
+  - HUB
+disable-armorstands-interaction:
+  enable: true
+  world:
+  - HUB
+disable-door-interaction:
+  enable: true
+  world:
+  - HUB
+disable-rain:
+  enable: true
+  world:
+  - HUB
+disable-block-break:
+  enable: true
+  world:
+  - HUB
+disable-block-place:
+  enable: true
+  world:
+  - HUB
+disable-block-burn:
+  enable: true
+  world:
+  - HUB
+disable-drop-item:
+  enable: true
+  world:
+  - HUB
+disable-item-move:
+  enable: true
+  world:
+  - HUB
+disable-item-damage:
+  enable: true
+  world:
+  - HUB
+disable-pick-up-items:
+  enable: true
+  world:
+  - HUB
+disable-entity-explode:
+  enable: true
+  world:
+  - HUB
+disable-damage:
+  enable: true
+  world:
+  - HUB
+disable-hunger:
+  enable: true
+  world:
+  - HUB
+disable-death-message:
+  enable: true
+  world:
+  - HUB
+disable-creature-spawn:
+  enable: true
+  world:
+  - HUB
+clear-drops-on-death:
+  enable: true
+  world:
+  - HUB
+lobby-items:
+  enable: true
+  join-server: true
+  respawn: true
+  join-world: true
+  world:
+  - HUB
+void-tp:
+  enable: true
+  level: 0
+  world:
+  - HUB
+always-day:
+  enable: true
+  world:
+  - HUB
+always-night:
+  enable: false
+  world:
+  - HUB
+frame-protect:
+  enable: true
+  world:
+  - HUB
+farm-protect:
+  enable: true
+  world:
+  - HUB
+jump-pads:
+  enable: true
+  plate-block: LIGHT_WEIGHTED_PRESSURE_PLATE
+  plate-block-old: GOLD_PLATE
+  sound: BLOCK_PISTON_EXTEND
+  sound-old: PISTON_EXTEND
+  world:
+  - HUB
+join-boss-bar:
+  enable: true
+  message: '&b&k|| &6Welcome to StarDust! &b&k||'
+  color: PURPLE
+  style: NOTCHED_20
+  seconds: 10
+join-tab:
+  enable: false
+  update: 1000
+  header: |-
+    &7
+    &f&m--&7&m--&8&m[-&r &6&lStar&f&lDust &7&lNETWORK &8&m-]&7&m--&f&m--
+    &7
+  footer: |-
+    &7
+    &7Website: &7stardust.net
+    &7Store: &7store.stardust.net
+    &7
+join-titles:
+  enable: true
+  fade-in: 20
+  stay: 50
+  fade-out: 10
+  title: '&6<player> &bWelcome to'
+  sub-title: '&6&lStar&f&lDust'
+join-motd:
+  enable: true
+  message:
+  - '&a&m---------------------------------------------------'
+  - ' '
+  - '&a# &6&l<player> &7Welcome to &6&lStar&f&lDust &fNETWORK!'
+  - ' '
+  - '&a# &7Buy rank on: &2store.stardust.net'
+  - '&a# &7For more information type &2/info'
+  - ' '
+  - '&a&m---------------------------------------------------'
+join-action-bar:
+  enable: true
+  seconds: 4
+  message: '&6Welcome to HELL!'
+commands-blacklist:
+  enable: true
+  bypass: superlobby.admin
+  list:
+  - /p
+  - /pl
+  - /bukkit:pl
+  - /'?'
+  - /bukkit:?
+  - /help
+  - /bukkit:help
+  - /plugins
+  - /bukkit:plugins
+  - /about
+  - /bukkit:about
+  - /ver
+  - /bukkit:ver
+  - /version
+  - /bukkit:version
+  - /gc
+  - /tps
+  - /me
+  - /bukkit:me
+  - /bukkit:ehelp
+  - /icanhasbukkit
+  - /icanhasspigot
+  - /info
+  - /mc:help
+  - /minecraft:help
+  - /essentials:help
+  - /essentials:ehelp
+  - /perm
+  - /mv
+  - /multiverse-core:mv
+  - /we
+  - /worldedit
+disable-tab-complete:
+  enable: false
+  bypass: superlobby.staff
+  whitelist:
+  - /warp
+  - /menu
+  - /games
+  - /info
+  - /yt
+  - /pay
+  - /tpa
+  - /tpaccept

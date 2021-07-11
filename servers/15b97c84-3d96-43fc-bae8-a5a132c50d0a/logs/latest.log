@@ -1,0 +1,202 @@
+[16:20:15] [main/INFO]: Using mbed TLS based native cipher.
+[16:20:15] [main/INFO]: Using zlib based native compressor.
+[16:20:15] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.17-R0.1-SNAPSHOT:0e45492:444
+[16:20:16] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[16:20:16] [main/INFO]: Epoll is working, utilising it!
+[16:20:16] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[16:20:16] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[16:20:16] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[16:20:16] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[16:20:16] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[16:20:16] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[16:20:16] [main/INFO]: Loaded plugin ViaVersion version 4.0.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+[16:20:16] [main/INFO]: Loaded plugin ViaRewind version 2.0.1 by Gerrygames
+[16:20:16] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:17] [main/INFO] [DKBans]: (McNative-Loader) Server: mirror.mcnative.org, Qualifier: RELEASE
+[16:20:18] [main/INFO] [DKBans]: (McNative-Loader) McNative 1.29.20.318 (Up to date)
+[16:20:18] [main/INFO]: [McNative] McNative is starting, please wait...
+[16:20:18] [main/INFO]: [McNative] Api Version: 1.5.24.182
+[16:20:18] [main/INFO]: [McNative] Impl Version: 1.29.20.318
+[16:20:18] [main/INFO]: [McNative] Searching configuration file
+[16:20:18] [main/INFO]: [McNative] Loading configuration (config.yml)
+[16:20:18] [main/INFO]: [McNative] McNative initialised and injected server map.
+[16:20:18] [main/INFO]: [McNative] McNative initialised plugin manager.
+[16:20:18] [main/INFO]: [McNative] McNative initialised player manager.
+[16:20:18] [main/INFO]: [McNative] McNative initialised and injected command manager.
+[16:20:18] [main/INFO]: [McNative] (Network) Initialized BungeeCord networking technology
+[16:20:19] [main/INFO]: (Dependency-Manager) Dependency com.h2database | h2 | 1.4.200 is up to date
+[16:20:19] [main/INFO]: [McNative] (Database-Driver) default Connected to local H2Portable database
+[16:20:19] [main/INFO] [com.zaxxer.hikari.HikariDataSource]: [McNative] (Database-Driver) default - Starting...
+[16:20:20] [main/INFO] [com.zaxxer.hikari.HikariDataSource]: [McNative] (Database-Driver) default - Start completed.
+[16:20:21] [main/INFO]: [McNative] McNative has overwritten the configuration adapter.
+[16:20:21] [main/INFO]: [McNative] McNative initialised and injected event bus.
+[16:20:21] [main/INFO]: [McNative] McNative has overwritten default bungeecord events.
+[16:20:21] [main/INFO] [McNative]: (Message-Provider) Loaded message pack McNative English
+[16:20:21] [main/INFO] [McNative]: (Message-Provider) Loaded 33 messages
+[16:20:21] [main/INFO]: [McNative] McNative successfully started.
+[16:20:21] [main/INFO] [DKBans]: (Resource-Loader) Server: mirror.mcnative.org, Qualifier: RELEASE
+[16:20:21] [main/INFO] [DKBans]: (Resource-Loader) McNative 1.19.3.501 (Up to date)
+[16:20:22] [main/INFO] [DKBans]: (Message-Provider) Loaded message pack DKBans English
+[16:20:22] [main/INFO] [DKBans]: (Message-Provider) Loaded 235 messages
+[16:20:22] [main/INFO] [DKBans]: DKBans is starting, please wait..
+[16:20:22] [main/INFO] [com.zaxxer.hikari.HikariDataSource]: [McNative] (Database-Driver) default - Starting...
+[16:20:22] [main/INFO] [com.zaxxer.hikari.HikariDataSource]: [McNative] (Database-Driver) default - Start completed.
+[16:20:23] [main/INFO] [DKBans]: DKBans config loaded
+[16:20:23] [main/INFO] [DKBans]: DKBans started successfully
+[16:20:23] [main/INFO]: Loaded plugin DKBans version 1.19.3.501 by Pretronic
+[16:20:24] [main/INFO]: Loaded plugin LuckPerms version 5.3.51 by Luck
+[16:20:24] [main/INFO]: Loaded plugin BungeeChat version 2.2.3.1241 by BrainStone
+[16:20:24] [main/INFO]: Loaded plugin StaffCore-Bungee version 1.0.1-Release by LacoDev
+[16:20:24] [main/INFO]: Loaded plugin protocolize-plugin version 1.7.1-SNAPSHOT:627 by Exceptionflug
+[16:20:24] [main/INFO]: Loaded plugin BungeeGuard version 1.2-SNAPSHOT by Luck
+[16:20:24] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:24] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:24] [main/INFO]: Loaded plugin TAB version 2.9.1 by NEZNAMY
+[16:20:24] [main/INFO]: Loaded plugin ItemJoin version 1.0.0-RELEASE-b25 by RockinChaos
+[16:20:24] [main/INFO]: Loaded plugin BungeePlayerSearch version 1.0.0 by null
+[16:20:24] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:24] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:24] [main/INFO]: Loaded plugin PrivateMessages version 3.0-Beta6 by MiroTcz
+[16:20:24] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:24] [main/INFO]: Loaded plugin ViaBackwards version 4.0.1 by Matsv, KennyTV, Gerrygames, creeper123123321, ForceUpdate1
+[16:20:24] [main/WARN]: Forced host server pvp is not defined
+[16:20:25] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading 1.12 -> 1.13 mappings...
+[16:20:25] [Via-Mappingloader-1/INFO] [ViaVersion]: Loading 1.13 -> 1.13.2 mappings...
+[16:20:25] [Via-Mappingloader-2/INFO] [ViaVersion]: Loading 1.13.2 -> 1.14 mappings...
+[16:20:25] [Via-Mappingloader-3/INFO] [ViaVersion]: Loading 1.14 -> 1.15 mappings...
+[16:20:26] [Via-Mappingloader-4/INFO] [ViaVersion]: Loading 1.15 -> 1.16 mappings...
+[16:20:26] [Via-Mappingloader-5/INFO] [ViaVersion]: Loading 1.16 -> 1.16.2 mappings...
+[16:20:26] [Via-Mappingloader-6/INFO] [ViaVersion]: Loading 1.16.2 -> 1.17 mappings...
+[16:20:26] [main/INFO] [ViaBackwards]: Loading translations...
+[16:20:26] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading block connection mappings ...
+[16:20:26] [Via-Mappingloader-1/INFO] [ViaBackwards]: Loading 1.10 -> 1.9.4 mappings...
+[16:20:27] [Via-Mappingloader-1/INFO] [ViaBackwards]: Loading 1.11 -> 1.10 mappings...
+[16:20:27] [Via-Mappingloader-4/INFO] [ViaBackwards]: Loading 1.13.2 -> 1.13 mappings...
+[16:20:27] [Via-Mappingloader-6/INFO] [ViaBackwards]: Loading 1.14 -> 1.13.2 mappings...
+[16:20:29] [Via-Mappingloader-5/INFO] [ViaBackwards]: Loading 1.13 -> 1.12 mappings...
+[16:20:29] [Via-Mappingloader-6/INFO] [ViaBackwards]: Loading 1.15 -> 1.14 mappings...
+[16:20:29] [Via-Mappingloader-6/INFO] [ViaBackwards]: Loading 1.16 -> 1.15 mappings...
+[16:20:29] [Via-Mappingloader-5/INFO] [ViaBackwards]: Loading 1.16.2 -> 1.16 mappings...
+[16:20:29] [Via-Mappingloader-5/INFO] [ViaBackwards]: Loading 1.17 -> 1.16.2 mappings...
+[16:20:29] [ViaVersion Pool Thread #0/INFO] [ViaVersion]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+[16:20:29] [ViaVersion Pool Thread #0/INFO] [ViaVersion]: Highest supported version by the proxy: 1.17.1 (756)
+[16:20:29] [main/INFO]: Enabled plugin ViaVersion version 4.0.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+[16:20:29] [ViaVersion Pool Thread #2/INFO] [ViaVersion]: Finished mapping loading, shutting down loader executor!
+[16:20:30] [main/INFO]: Enabled plugin ViaRewind version 2.0.1 by Gerrygames
+[16:20:30] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:30] [main/INFO]: Enabled plugin DKBans version 1.19.3.501 by null
+[16:20:30] [main/INFO]: Enabled plugin McNative version 1.29.20.318 by Pretronic
+[16:20:31] [main/INFO]:         __    
+[16:20:31] [main/INFO]:   |    |__)   LuckPerms v5.3.51
+[16:20:31] [main/INFO]:   |___ |      Running on BungeeCord - Waterfall
+[16:20:31] [main/INFO]: 
+[16:20:31] [main/INFO] [LuckPerms]: Loading configuration...
+[16:20:31] [main/INFO] [LuckPerms]: Loading storage provider... [MYSQL]
+[16:20:32] [main/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Starting...
+[16:20:32] [main/INFO] [me.lucko.luckperms.lib.hikari.HikariDataSource]: luckperms-hikari - Start completed.
+[16:20:34] [main/INFO] [LuckPerms]: Loading messaging service... [SQL]
+[16:20:35] [main/INFO] [LuckPerms]: Loading internal permission managers...
+[16:20:35] [main/INFO] [LuckPerms]: Performing initial data load...
+[16:20:35] [main/INFO] [LuckPerms]: Successfully enabled. (took 5630ms)
+[16:20:35] [main/INFO]: Enabled plugin LuckPerms version 5.3.51 by Luck
+[16:20:38] [main/INFO] [BungeeChat]: ---------------- Bungee Chat ----------------
+[16:20:38] [main/INFO] [BungeeChat]: Authors: BrainStone, shawn_ian
+[16:20:38] [main/INFO] [BungeeChat]: Version: 2.2.3.1241
+[16:20:38] [main/INFO] [BungeeChat]: Modules: LuckPerms5, Alert, AntiAdvertising, AntiCapslock, AntiDuplication, AntiSwear, ChatLock, ChatLogging, ClearChat, GlobalChat, HelpOp, Ignoring, JoinMessage, LeaveMessage, LocalChat, LocalTo, Messenger, MOTD, Muting, ServerSwitchMessages, Spy, StaffChat, Vanish, VersionChecker, WelcomeMessage
+[16:20:38] [main/INFO] [BungeeChat]: Contributors: AwesomestGamer, Brianetta, CryLegend, gb2233, Hodel1, Luck, MineTech13, n0dai
+[16:20:38] [main/INFO] [BungeeChat]: Translators: DardBrinza, Fantasenf, fjeddy, Garixer, gb2233, Itaquito, marzenie, Maxime_74, povsister
+[16:20:38] [main/INFO] [BungeeChat]: Donators: Breantique, NickT
+[16:20:38] [main/INFO] [BungeeChat]: ---------------------------------------------
+[16:20:38] [main/INFO]: Enabled plugin BungeeChat version 2.2.3.1241 by BrainStone
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Generating... (config.yml)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Generating... (mysql.yml)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Generated (config.yml)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Generated (mysql.yml)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Fetching... (Translations from translate.lacodev.de)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Successfully cached 278 Fallback-Translations(US)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Successfully cached 278 Request-Translations(US)
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: 
+[16:20:38] [main/INFO]: System » Activating MCLeaks-Blocker...
+[16:20:39] [main/INFO]: 
+[16:20:39] [main/INFO]: System » Successfully cached 215 Accounts
+[16:20:39] [main/INFO]: 
+[16:20:39] [main/ERROR]: Sun Jul 11 16:20:39 UTC 2021 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[16:20:39] [main/INFO]: System (MySQL) - Successfully connected to database StaffCore
+[16:20:39] [main/INFO]: System (MySQL) - Successfully created the database tables
+[16:20:39] [main/INFO]: 
+[16:20:39] [main/INFO]: System » Checking for updates...
+[16:20:39] [main/INFO]: 
+[16:20:39] [main/INFO]: System » You are using the latest build!
+[16:20:39] [main/INFO]: 
+[16:20:40] [main/INFO]: System » Settings successfully loaded!
+[16:20:40] [main/INFO]: 
+[16:20:40] [main/INFO]: System » Environment: git:Waterfall-Bootstrap:1.17-R0.1-SNAPSHOT:0e45492:444
+[16:20:40] [main/INFO]: System » StaffCore: v1.0.1-Release (LATEST)
+[16:20:40] [main/INFO]: System » SUCCESS (PLUGIN STARTED)
+[16:20:40] [main/INFO]: 
+[16:20:40] [main/INFO]: Enabled plugin StaffCore-Bungee version 1.0.1-Release by LacoDev
+[16:20:40] [main/INFO]: ======= PROTOCOLIZE =======
+[16:20:40] [main/INFO]: Version 1.7.1-SNAPSHOT:627 by Exceptionflug
+[16:20:40] [main/INFO]: [Protocolize] Running on Waterfall. Please report bugs regarding protocolize at https://github.com/Exceptionflug/protocolize/issues
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.ChangeGameState
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.NamedSoundEffect
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.SignUpdate
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.PlayerPosition
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.PlayerLook
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.PlayerPositionLook
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.world.packet.SignUpdate
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.items.packet.SetSlot
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.items.packet.WindowItems
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.items.packet.HeldItemChange
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.items.packet.UseItem
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.items.packet.BlockPlacement
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.items.packet.HeldItemChange
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.OpenWindow
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.CloseWindow
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.ConfirmTransaction
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.WindowProperty
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.CloseWindow
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.ConfirmTransaction
+[16:20:40] [main/INFO]: [Protocolize] Injected custom packet: de.exceptionflug.protocolize.inventory.packet.ClickWindow
+[16:20:40] [main/INFO]: Enabled plugin protocolize-plugin version 1.7.1-SNAPSHOT:627 by Exceptionflug
+[16:20:40] [main/INFO]: Enabled plugin BungeeGuard version 1.2-SNAPSHOT by Luck
+[16:20:40] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:40] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:40] [main/INFO]: [TAB] Enabled in 290ms
+[16:20:40] [main/INFO]: Enabled plugin TAB version 2.9.1 by NEZNAMY
+[16:20:41] [Thread-21/INFO]: [TAB] Version 2.9.2 is out! Your version: 2.9.1
+[16:20:41] [Thread-21/INFO]: [TAB] Get the update at https://www.spigotmc.org/resources/57806/
+[16:20:45] [main/INFO]: Enabled plugin ItemJoin version 1.0.0-RELEASE-b25 by RockinChaos
+[16:20:45] [main/INFO] [BungeePlayerSearch]: BungeePlayerSearch Plugin was enabled - PLUGIN BY _Neko1
+[16:20:45] [main/INFO]: Enabled plugin BungeePlayerSearch version 1.0.0 by null
+[16:20:45] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:45] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:45] [main/INFO]: Path: /home/container/plugins/PrivateMessages/config.yml
+[16:20:45] [main/INFO]: 2
+[16:20:45] [main/INFO]: Path: /home/container/plugins/PrivateMessages/lang.yml
+[16:20:45] [main/INFO]: 2
+[16:20:45] [main/INFO]: Path: /home/container/plugins/PrivateMessages/sounds.yml
+[16:20:45] [main/INFO]: 2
+[16:20:45] [main/INFO]: Path: /home/container/plugins/PrivateMessages/known_players.yml
+[16:20:45] [main/INFO]: 2
+[16:20:45] [main/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+[16:20:45] [main/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+[16:20:45] [main/INFO]: nullNone vanish plugins found. Will try to determine vanish info from backend servers.
+[16:20:45] [main/INFO]: Enabled plugin PrivateMessages version 3.0-Beta6 by MiroTcz
+[16:20:45] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:0e45492:444 by WaterfallMC
+[16:20:45] [main/INFO]: Enabled plugin ViaBackwards version 4.0.1 by Matsv, KennyTV, Gerrygames, creeper123123321, ForceUpdate1
+[16:20:45] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25560

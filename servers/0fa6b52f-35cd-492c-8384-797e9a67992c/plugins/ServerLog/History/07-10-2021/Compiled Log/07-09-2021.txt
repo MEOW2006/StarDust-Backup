@@ -1,0 +1,1542 @@
+[21:24:54]: The TPS is 0.
+[21:24:54]: The current RAM usage is 2604MB / 3800MB (68.53%).
+[21:24:54]: The current player count is 0.
+[21:29:53]: The TPS is 20.
+[21:29:53]: The current RAM usage is 2488MB / 3800MB (65.47%).
+[21:29:53]: The current player count is 0.
+[21:32:20]: MoMeooW joined from the IP 197.41.37.66.
+[21:32:53]: MoMeooW placed the block STONE_BRICKS at the location -10, 13, -17.
+[21:32:53]: MoMeooW placed the block STONE_BRICKS at the location -10, 13, -17.
+[21:33:00]: MoMeooW ran the command /build.
+[21:33:01]: MoMeooW broke the block STONE_BRICKS at the location 15, 14, -16.
+[21:33:02]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, -16.
+[21:33:05]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, 14.
+[21:33:07]: MoMeooW broke the block GLASS at the location 15, 19, 16.
+[21:33:14]: MoMeooW placed the block STONE_BRICKS at the location -17, 13, 7.
+[21:33:14]: MoMeooW broke the block STONE_BRICKS at the location -17, 13, 7.
+[21:33:15]: MoMeooW placed the block STONE_BRICKS at the location -16, 13, 7.
+[21:33:15]: MoMeooW broke the block STONE_BRICKS at the location -16, 13, 7.
+[21:33:16]: MoMeooW broke the block GRASS_BLOCK at the location -16, 12, 7.
+[21:33:16]: MoMeooW broke the block GRASS_BLOCK at the location -17, 12, 7.
+[21:33:17]: MoMeooW placed the block GRASS_BLOCK at the location -17, 12, 7.
+[21:33:18]: MoMeooW placed the block GRASS_BLOCK at the location -16, 12, 7.
+[21:33:39]: MoMeooW ran the command /papi ecloud download Vault.
+[21:33:43]: MoMeooW ran the command /papi reload.
+[21:34:15]: MoMeooW ran the command /bal.
+[21:34:17]: MoMeooW ran the command /bal.
+[21:34:19]: MoMeooW ran the command /balance.
+[21:34:23]: MoMeooW ran the command /pl.
+[21:34:47]: MoMeooW ran the command /bh.
+[21:34:49]: MoMeooW ran the command /bhead.
+[21:34:53]: The TPS is 20.
+[21:34:53]: The current RAM usage is 2555MB / 3800MB (67.24%).
+[21:34:53]: The current player count is 1.
+[21:35:18]: MoMeooW ran the command /msg.
+[21:35:24]: MoMeooW ran the command /msg MoMeooW test.
+[21:35:45]: MoMeooW ran the command /privatemessage.
+[21:35:49]: MoMeooW ran the command /privatemessage MoMeooW MoMeooW.
+[21:35:53]: MoMeooW ran the command /privatemessage MoMeooW hh.
+[21:36:02]: MoMeooW ran the command /pm MoMeooW [message].
+[21:36:15]: MoMeooW ran the command /pp.
+[21:37:25]: MoMeooW ran the command /pl.
+[21:37:38]: MoMeooW ran the command /pp.
+[21:37:48]: MoMeooW ran the command /pp.
+[21:38:02]: MoMeooW ran the command /pp.
+[21:38:15]: MoMeooW ran the command /pp.
+[21:39:27]: MoMeooW ran the command /pp.
+[21:39:38]: MoMeooW ran the command /pp.
+[21:39:53]: The TPS is 20.
+[21:39:53]: The current RAM usage is 2618MB / 3800MB (68.89%).
+[21:39:53]: The current player count is 1.
+[21:40:07]: MoMeooW ran the command /pp.
+[21:40:35]: MoMeooW ran the command /pp.
+[21:42:02]: MoMeooW ran the command /pp.
+[21:43:11]: MoMeooW ran the command /pp.
+[21:43:24]: MoMeooW ran the command /pp.
+[21:44:16]: MoMeooW placed the block DARK_OAK_SIGN at the location -5, 16, 0.
+[21:44:37]: MoMeooW ran the command /papi parse me %player%.
+[21:44:40]: MoMeooW ran the command /papi parse me %player_name%.
+[21:44:47]: MoMeooW broke the block DARK_OAK_SIGN at the location -5, 16, 0.
+[21:44:47]: MoMeooW placed the block DARK_OAK_SIGN at the location -4, 16, 0.
+[21:44:51]: MoMeooW broke the block DARK_OAK_SIGN at the location -4, 16, 0.
+[21:44:53]: The TPS is 20.
+[21:44:53]: The current RAM usage is 2709MB / 3800MB (71.29%).
+[21:44:53]: The current player count is 1.
+[21:45:03]: MoMeooW ran the command /msg.
+[21:45:10]: MoMeooW ran the command /privatemessages:msg.
+[21:45:13]: MoMeooW ran the command /privatemessages.
+[21:45:14]: MoMeooW ran the command /privatemessages.
+[21:45:17]: MoMeooW ran the command /pm.
+[21:46:32]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 5.
+[21:46:35]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 4.
+[21:46:36]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 5.
+[21:46:36]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 5.
+[21:46:37]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 4.
+[21:46:37]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 3.
+[21:46:38]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 3.
+[21:46:38]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 4.
+[21:46:39]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 3.
+[21:46:39]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 3.
+[21:46:40]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, 3.
+[21:46:42]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 4.
+[21:46:42]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 4.
+[21:46:45]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 5.
+[21:46:45]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, 5.
+[21:46:46]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 3.
+[21:46:47]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 4.
+[21:46:47]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 4.
+[21:46:48]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 5.
+[21:46:49]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 5.
+[21:46:50]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 3.
+[21:46:59]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -5, 16, 4.
+[21:47:03]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, 3.
+[21:47:04]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, 4.
+[21:47:05]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, 5.
+[21:47:07]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, 4.
+[21:47:16]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -5, 16, -6.
+[21:47:17]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -6.
+[21:47:18]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -5.
+[21:47:19]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, -5.
+[21:47:20]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -6.
+[21:47:21]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -5.
+[21:47:22]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -7.
+[21:47:23]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, -7.
+[21:47:23]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -7.
+[21:47:28]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 3.
+[21:47:29]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 3.
+[21:47:30]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 5.
+[21:47:31]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 5.
+[21:47:37]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, -6.
+[21:47:50]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, -5.
+[21:47:51]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, -6.
+[21:47:52]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, -7.
+[21:47:52]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, -7.
+[21:47:53]: MoMeooW broke the block QUARTZ_STAIRS at the location 4, 16, -7.
+[21:47:55]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, -6.
+[21:48:06]: MoMeooW broke the block QUARTZ_STAIRS at the location 4, 16, 3.
+[21:48:07]: MoMeooW broke the block QUARTZ_STAIRS at the location 6, 16, 3.
+[21:48:08]: MoMeooW broke the block QUARTZ_STAIRS at the location 6, 16, 5.
+[21:48:09]: MoMeooW broke the block QUARTZ_STAIRS at the location 4, 16, 5.
+[21:48:12]: MoMeooW broke the block QUARTZ_STAIRS at the location -4, 16, -5.
+[21:48:13]: MoMeooW broke the block QUARTZ_STAIRS at the location -5, 16, -5.
+[21:48:14]: MoMeooW broke the block QUARTZ_STAIRS at the location -6, 16, -5.
+[21:48:15]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, -5.
+[21:48:16]: MoMeooW broke the block QUARTZ_STAIRS at the location -6, 16, -7.
+[21:48:17]: MoMeooW broke the block QUARTZ_STAIRS at the location -4, 16, -7.
+[21:49:53]: The TPS is 20.
+[21:49:53]: The current RAM usage is 2627MB / 3800MB (69.13%).
+[21:49:53]: The current player count is 1.
+[21:50:32]: MoMeooW placed the block ENDER_CHEST at the location 5, 17, -6.
+[21:50:35]: MoMeooW placed the block ENDER_CHEST at the location -5, 17, 4.
+[21:50:37]: MoMeooW placed the block END_PORTAL_FRAME at the location -5, 17, -6.
+[21:50:39]: MoMeooW placed the block END_PORTAL_FRAME at the location 5, 17, 4.
+[21:50:47]: MoMeooW broke the block QUARTZ_STAIRS at the location 5, 16, 5.
+[21:50:47]: MoMeooW broke the block QUARTZ_STAIRS at the location 4, 16, 4.
+[21:50:50]: MoMeooW broke the block QUARTZ_STAIRS at the location 5, 16, 3.
+[21:50:51]: MoMeooW broke the block QUARTZ_STAIRS at the location 6, 16, 4.
+[21:50:51]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 6, 16, 4.
+[21:50:51]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 3.
+[21:50:52]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 4, 16, 4.
+[21:50:54]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, 5.
+[21:50:57]: MoMeooW placed the block QUARTZ_STAIRS at the location 3, 16, 4.
+[21:51:14]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, 2.
+[21:51:16]: MoMeooW placed the block QUARTZ_STAIRS at the location 3, 16, 3.
+[21:51:17]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 3.
+[21:51:17]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 2.
+[21:51:19]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 2.
+[21:51:20]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 3.
+[21:51:20]: MoMeooW placed the block QUARTZ_STAIRS at the location 7, 16, 3.
+[21:51:21]: MoMeooW placed the block QUARTZ_STAIRS at the location 7, 16, 4.
+[21:51:22]: MoMeooW placed the block QUARTZ_STAIRS at the location 7, 16, 5.
+[21:51:22]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 5.
+[21:51:23]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, 6.
+[21:51:24]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, 6.
+[21:51:25]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 6.
+[21:51:25]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, 5.
+[21:51:27]: MoMeooW placed the block QUARTZ_STAIRS at the location 3, 16, 5.
+[21:51:36]: MoMeooW broke the block QUARTZ_STAIRS at the location -4, 16, 4.
+[21:51:36]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, 4.
+[21:51:39]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, 3.
+[21:51:40]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, 3.
+[21:51:40]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, 2.
+[21:51:42]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, 2.
+[21:51:42]: MoMeooW broke the block QUARTZ_STAIRS at the location -5, 16, 3.
+[21:51:44]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, 2.
+[21:51:45]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, 3.
+[21:51:46]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, 4.
+[21:51:47]: MoMeooW broke the block QUARTZ_STAIRS at the location -6, 16, 4.
+[21:51:47]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, 3.
+[21:51:49]: MoMeooW broke the block QUARTZ_STAIRS at the location -7, 16, 4.
+[21:51:49]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, 4.
+[21:51:53]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, 5.
+[21:51:55]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, 5.
+[21:51:55]: MoMeooW broke the block QUARTZ_STAIRS at the location -5, 16, 5.
+[21:51:56]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, 6.
+[21:51:58]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, 6.
+[21:52:00]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, 6.
+[21:52:01]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, 5.
+[21:52:02]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, 5.
+[21:52:04]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -5, 16, 5.
+[21:52:04]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -4, 16, 4.
+[21:52:05]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -6, 16, 4.
+[21:52:06]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -5, 16, 3.
+[21:52:09]: MoMeooW broke the block QUARTZ_STAIRS at the location -5, 16, -5.
+[21:52:09]: MoMeooW broke the block QUARTZ_STAIRS at the location -6, 16, -6.
+[21:52:10]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -5, 16, -5.
+[21:52:10]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -6, 16, -6.
+[21:52:12]: MoMeooW broke the block QUARTZ_STAIRS at the location -5, 16, -7.
+[21:52:12]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -5, 16, -7.
+[21:52:13]: MoMeooW broke the block QUARTZ_STAIRS at the location -4, 16, -6.
+[21:52:13]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location -4, 16, -6.
+[21:52:15]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -7.
+[21:52:16]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, -7.
+[21:52:17]: MoMeooW broke the block QUARTZ_STAIRS at the location -3, 16, -7.
+[21:52:17]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, -7.
+[21:52:18]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -8.
+[21:52:19]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, -8.
+[21:52:20]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -8.
+[21:52:21]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -7.
+[21:52:21]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, -7.
+[21:52:22]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, -6.
+[21:52:23]: MoMeooW placed the block QUARTZ_STAIRS at the location -7, 16, -5.
+[21:52:24]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -5.
+[21:52:25]: MoMeooW placed the block QUARTZ_STAIRS at the location -6, 16, -4.
+[21:52:26]: MoMeooW placed the block QUARTZ_STAIRS at the location -5, 16, -4.
+[21:52:27]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -4.
+[21:52:28]: MoMeooW placed the block QUARTZ_STAIRS at the location -4, 16, -5.
+[21:52:28]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, -6.
+[21:52:29]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, -5.
+[21:52:30]: MoMeooW broke the block QUARTZ_STAIRS at the location -3, 16, -5.
+[21:52:33]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, -5.
+[21:52:35]: MoMeooW broke the block QUARTZ_STAIRS at the location -3, 16, -6.
+[21:52:35]: MoMeooW placed the block QUARTZ_STAIRS at the location -3, 16, -6.
+[21:52:37]: MoMeooW broke the block QUARTZ_STAIRS at the location 4, 16, -6.
+[21:52:38]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 4, 16, -6.
+[21:52:39]: MoMeooW broke the block QUARTZ_STAIRS at the location 5, 16, -7.
+[21:52:39]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, -7.
+[21:52:41]: MoMeooW broke the block QUARTZ_STAIRS at the location 6, 16, -6.
+[21:52:42]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 6, 16, -6.
+[21:52:43]: MoMeooW broke the block QUARTZ_STAIRS at the location 5, 16, -5.
+[21:52:43]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 5, 16, -5.
+[21:52:45]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, -4.
+[21:52:46]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, -4.
+[21:52:46]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, -5.
+[21:52:47]: MoMeooW placed the block QUARTZ_STAIRS at the location 3, 16, -5.
+[21:52:48]: MoMeooW placed the block QUARTZ_STAIRS at the location 3, 16, -6.
+[21:52:49]: MoMeooW placed the block QUARTZ_STAIRS at the location 3, 16, -7.
+[21:52:49]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, -7.
+[21:52:50]: MoMeooW placed the block QUARTZ_STAIRS at the location 4, 16, -8.
+[21:52:51]: MoMeooW placed the block QUARTZ_STAIRS at the location 5, 16, -8.
+[21:52:52]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, -8.
+[21:52:53]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, -7.
+[21:52:55]: MoMeooW placed the block QUARTZ_STAIRS at the location 7, 16, -7.
+[21:52:56]: MoMeooW placed the block QUARTZ_STAIRS at the location 7, 16, -6.
+[21:52:56]: MoMeooW placed the block QUARTZ_STAIRS at the location 7, 16, -5.
+[21:52:57]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, -5.
+[21:52:58]: MoMeooW placed the block QUARTZ_STAIRS at the location 6, 16, -4.
+[21:53:11]: MoMeooW placed the block QUARTZ_STAIRS at the location -11, 16, -1.
+[21:53:12]: MoMeooW broke the block QUARTZ_STAIRS at the location -11, 16, -1.
+[21:53:16]: MoMeooW broke the block STONE_BRICKS at the location -2, 15, 10.
+[21:53:16]: MoMeooW broke the block STONE_BRICKS at the location -1, 15, 10.
+[21:53:17]: MoMeooW broke the block STONE_BRICKS at the location 0, 15, 10.
+[21:53:18]: MoMeooW broke the block STONE_BRICKS at the location 1, 15, 10.
+[21:53:19]: MoMeooW broke the block STONE_BRICKS at the location 2, 15, 10.
+[21:53:19]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 15, 10.
+[21:53:21]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 2, 15, 10.
+[21:53:21]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 15, 10.
+[21:53:22]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 1, 15, 10.
+[21:53:22]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 15, 10.
+[21:53:23]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -1, 15, 10.
+[21:53:24]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 15, 10.
+[21:53:25]: MoMeooW broke the block STONE_BRICK_STAIRS at the location -2, 15, 10.
+[21:53:25]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 15, 10.
+[21:53:28]: MoMeooW broke the block STONE_BRICK_STAIRS at the location -2, 15, 10.
+[21:53:29]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 15, 10.
+[21:53:30]: MoMeooW broke the block STONE_BRICKS at the location -2, 14, 12.
+[21:53:30]: MoMeooW broke the block STONE_BRICKS at the location -1, 14, 12.
+[21:53:31]: MoMeooW broke the block STONE_BRICKS at the location 0, 14, 12.
+[21:53:31]: MoMeooW broke the block STONE_BRICKS at the location 1, 14, 12.
+[21:53:32]: MoMeooW broke the block STONE_BRICKS at the location 2, 14, 12.
+[21:53:33]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 14, 12.
+[21:53:34]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 2, 14, 12.
+[21:53:34]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 14, 12.
+[21:53:35]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 1, 14, 12.
+[21:53:37]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 14, 12.
+[21:53:37]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -1, 14, 12.
+[21:53:38]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 14, 12.
+[21:53:40]: MoMeooW broke the block STONE_BRICKS at the location 2, 13, 14.
+[21:53:40]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 13, 14.
+[21:53:41]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 2, 13, 14.
+[21:53:41]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 13, 14.
+[21:53:42]: MoMeooW broke the block STONE_BRICKS at the location 1, 13, 14.
+[21:53:42]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 1, 13, 14.
+[21:53:44]: MoMeooW broke the block STONE_BRICKS at the location -2, 13, 14.
+[21:53:44]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 13, 14.
+[21:53:44]: MoMeooW broke the block STONE_BRICKS at the location -1, 13, 14.
+[21:53:45]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 13, 15.
+[21:53:45]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 0, 13, 15.
+[21:53:45]: MoMeooW broke the block STONE_BRICKS at the location 0, 13, 14.
+[21:53:45]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -1, 13, 14.
+[21:53:46]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 13, 14.
+[21:53:54]: MoMeooW broke the block STONE_BRICKS at the location 11, 15, 0.
+[21:53:54]: MoMeooW broke the block STONE_BRICKS at the location 11, 15, 1.
+[21:53:55]: MoMeooW broke the block STONE_BRICKS at the location 11, 15, -1.
+[21:53:55]: MoMeooW broke the block STONE_BRICKS at the location 11, 15, -2.
+[21:53:55]: MoMeooW broke the block STONE_BRICKS at the location 11, 15, -3.
+[21:53:56]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 11, 15, -3.
+[21:53:58]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 11, 15, 1.
+[21:53:59]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 11, 15, -3.
+[21:53:59]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 11, 15, -3.
+[21:54:00]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 11, 15, -1.
+[21:54:00]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 11, 15, 0.
+[21:54:01]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 11, 15, -2.
+[21:54:02]: MoMeooW broke the block STONE_BRICKS at the location 13, 14, -3.
+[21:54:03]: MoMeooW broke the block STONE_BRICKS at the location 13, 14, -2.
+[21:54:04]: MoMeooW broke the block STONE_BRICKS at the location 13, 14, -1.
+[21:54:04]: MoMeooW broke the block STONE_BRICKS at the location 13, 14, 0.
+[21:54:05]: MoMeooW broke the block STONE_BRICKS at the location 13, 14, 1.
+[21:54:05]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 13, 14, 1.
+[21:54:09]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 13, 14, -3.
+[21:54:10]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 13, 14, -3.
+[21:54:11]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 13, 14, -3.
+[21:54:11]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 13, 14, -2.
+[21:54:12]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 13, 14, -1.
+[21:54:12]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 13, 14, 0.
+[21:54:13]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, 0.
+[21:54:13]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, 1.
+[21:54:14]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 15, 13, 1.
+[21:54:15]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 15, 13, 0.
+[21:54:16]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 15, 13, 1.
+[21:54:16]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 15, 13, 1.
+[21:54:17]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, -1.
+[21:54:17]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 15, 13, -1.
+[21:54:17]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, -2.
+[21:54:18]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 15, 13, -2.
+[21:54:18]: MoMeooW broke the block STONE_BRICKS at the location 15, 13, -3.
+[21:54:19]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 15, 13, -3.
+[21:54:30]: MoMeooW broke the block STONE_BRICKS at the location 0, 13, -16.
+[21:54:30]: MoMeooW broke the block STONE_BRICKS at the location 1, 13, -16.
+[21:54:31]: MoMeooW broke the block STONE_BRICKS at the location 2, 13, -16.
+[21:54:31]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 13, -16.
+[21:54:32]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 1, 13, -16.
+[21:54:32]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 13, -16.
+[21:54:33]: MoMeooW broke the block STONE_BRICKS at the location -1, 13, -16.
+[21:54:33]: MoMeooW broke the block STONE_BRICKS at the location -2, 13, -16.
+[21:54:34]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 13, -16.
+[21:54:34]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -1, 13, -16.
+[21:54:36]: MoMeooW broke the block STONE_BRICKS at the location -2, 14, -14.
+[21:54:36]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 14, -14.
+[21:54:37]: MoMeooW broke the block STONE_BRICKS at the location -1, 14, -14.
+[21:54:38]: MoMeooW broke the block STONE_BRICK_STAIRS at the location -2, 14, -14.
+[21:54:38]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 14, -14.
+[21:54:39]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -1, 14, -14.
+[21:54:39]: MoMeooW broke the block STONE_BRICKS at the location 0, 14, -14.
+[21:54:40]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 14, -14.
+[21:54:40]: MoMeooW broke the block STONE_BRICKS at the location 1, 14, -14.
+[21:54:41]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 1, 14, -14.
+[21:54:42]: MoMeooW broke the block STONE_BRICKS at the location 2, 14, -14.
+[21:54:43]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 14, -14.
+[21:54:44]: MoMeooW broke the block STONE_BRICKS at the location 1, 15, -12.
+[21:54:45]: MoMeooW broke the block STONE_BRICKS at the location 2, 15, -12.
+[21:54:47]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 15, -12.
+[21:54:48]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 1, 15, -12.
+[21:54:48]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 2, 15, -12.
+[21:54:49]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 2, 15, -12.
+[21:54:49]: MoMeooW broke the block STONE_BRICKS at the location 0, 15, -12.
+[21:54:50]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 0, 15, -12.
+[21:54:50]: MoMeooW broke the block STONE_BRICKS at the location -1, 15, -12.
+[21:54:50]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -1, 15, -12.
+[21:54:51]: MoMeooW broke the block STONE_BRICKS at the location -2, 15, -12.
+[21:54:52]: MoMeooW placed the block STONE_BRICK_STAIRS at the location -2, 15, -12.
+[21:54:53]: The TPS is 20.
+[21:54:53]: The current RAM usage is 2981MB / 3800MB (78.45%).
+[21:54:53]: The current player count is 1.
+[21:55:01]: MoMeooW ran the command /summon minecraft:zombie.
+[21:55:07]: MoMeooW ran the command /dis Zombie.
+[21:55:18]: MoMeooW ran the command /disv.
+[21:55:20]: MoMeooW ran the command /disvs.
+[21:55:32]: MoMeooW ran the command /disvs.
+[21:55:37]: MoMeooW ran the command /skin.
+[21:55:43]: MoMeooW ran the command /nick.
+[21:55:48]: MoMeooW ran the command /v.
+[21:55:50]: MoMeooW ran the command /v.
+[21:55:58]: MoMeooW ran the command /sudo zx26.
+[21:56:01]: MoMeooW ran the command /sudo zx26 hey.
+[21:56:03]: MoMeooW ran the command /pl.
+[21:56:15]: MoMeooW ran the command /serversystem.
+[21:56:30]: MoMeooW ran the command /plugman lookup serversystem.
+[21:56:45]: MoMeooW ran the command /plugman lookup serversystem.
+[21:57:44]: MoMeooW ran the command /plugman usage serversystem.
+[21:57:53]: MoMeooW ran the command /gm 1.
+[21:57:56]: MoMeooW ran the command /gmc.
+[21:57:58]: MoMeooW ran the command /gms.
+[21:57:58]: MoMeooW changed their gamemode from CREATIVE to SURVIVAL.
+[21:58:01]: MoMeooW ran the command /gmsp.
+[21:58:01]: MoMeooW changed their gamemode from SURVIVAL to SPECTATOR.
+[21:58:05]: MoMeooW ran the command /gma.
+[21:58:05]: MoMeooW changed their gamemode from SPECTATOR to ADVENTURE.
+[21:58:10]: MoMeooW ran the command /gmc.
+[21:58:10]: MoMeooW changed their gamemode from ADVENTURE to CREATIVE.
+[21:58:22]: MoMeooW broke the block STONE_BRICKS at the location 2, 15, -1.
+[21:58:28]: MoMeooW placed the block STONE_BRICKS at the location 2, 15, -1.
+[21:58:45]: MoMeooW ran the command /kit.
+[21:58:58]: MoMeooW ran the command /superlobby openmenu MoMeooW kits.
+[21:59:04]: MoMeooW ran the command /superlobby openmenu MoMeooW profile.
+[21:59:27]: MoMeooW ran the command /table.
+[21:59:44]: MoMeooW ran the command /smelt.
+[21:59:50]: MoMeooW ran the command /smelt.
+[21:59:53]: The TPS is 20.
+[21:59:53]: The current RAM usage is 2733MB / 3800MB (71.92%).
+[21:59:53]: The current player count is 1.
+[21:59:55]: MoMeooW ran the command /smelt.
+[22:00:12]: MoMeooW ran the command /smelt.
+[22:00:19]: MoMeooW ran the command /smelt.
+[22:00:49]: MoMeooW ran the command /setspawn.
+[22:00:52]: MoMeooW ran the command /spawn.
+[22:01:03]: MoMeooW ran the command /serversystem:spawn.
+[22:01:03]: MoMeooW teleported to 0, 16, -1.
+[22:01:37]: MoMeooW ran the command /cgmode.
+[22:01:39]: MoMeooW ran the command /cgmode.
+[22:01:41]: zx26 joined from the IP 156.194.248.134.
+[22:01:41]: zx26 teleported to 0, 16, -1.
+[22:01:42]: MoMeooW ran the command /cgmode MoMeooW.
+[22:01:51]: MoMeooW said -> wlc <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:01:56]: zx26 said -> yo <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:01:59]: zx26 said -> wtf is that lol <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:02:04]: MoMeooW said -> some shit <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:02:18]: MoMeooW said -> respect my work ._. <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:02:29]: zx26 said -> it's weird :/ <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:02:34]: MoMeooW said -> why <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:02:37]: MoMeooW said -> chests? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:02:40]: zx26 said -> it's just weird lol <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:02:43]: zx26 said -> also <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:02:48]: zx26 said -> i have a question <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:02:54]: MoMeooW said -> this chests is for crates <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:02:55]: zx26 said -> do you have gameloop in your pc? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:02:59]: MoMeooW said -> nope <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:03:03]: zx26 said -> sadly <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:03:04]: MoMeooW said -> what is that btW? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:03:14]: zx26 said -> android emulator <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:03:16]: MoMeooW broke the block GLASS at the location -11, 41, -9.
+[22:03:26]: zx26 said -> like blue stacks <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:03:31]: MoMeooW said -> lol on my pc? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:03:33]: MoMeooW said -> dreams <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:03:37]: zx26 said -> bluestacks is much better but i have lag with it xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:03:45]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:03:58]: zx26 said -> i just downloaded this shit since my phone died <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:05]: zx26 said -> and i was playing an rpg game in my phone <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:10]: zx26 said -> i want to play it again <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:15]: MoMeooW said -> aha ok <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:04:22]: MoMeooW said -> i don't play on my phone btw <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:04:24]: zx26 said -> but it seems like its stuck <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:32]: zx26 said -> it finshed downloading <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:39]: zx26 said -> also the downloading bar is done <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:43]: zx26 said -> "installing" *** <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:45]: MoMeooW said -> nice <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:04:47]: zx26 said -> but <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:51]: zx26 said -> it disappeared <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:04:53]: The TPS is 20.
+[22:04:53]: The current RAM usage is 2616MB / 3800MB (68.84%).
+[22:04:53]: The current player count is 2.
+[22:04:54]: zx26 said -> and stuck there <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:05:00]: zx26 said -> idk if its doing something or no <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:05:08]: MoMeooW said -> lol good luck <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:05:18]: zx26 said -> can you copy this shit ? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:05:25]: zx26 said -> and paste it somewhere? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:05:33]: MoMeooW said -> if u don't like that stone brick cyrcles i can make it just quartez <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:05:36]: MoMeooW said -> can u tell me <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:05:39]: MoMeooW said -> what is wrong with it <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:05:48]: zx26 said -> well <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:05:52]: zx26 said -> it's just weird <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:06:00]: MoMeooW said -> wtf <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:06:08]: zx26 said -> it feels like you combined alien circle with some icecream xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:06:09]: MoMeooW said -> what is wrird <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:06:16]: MoMeooW said -> it is not bad ._> <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:06:22]: zx26 said -> ye not bad <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:06:24]: zx26 said -> but weird <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:06:29]: MoMeooW said -> nah it is not weird <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:06:32]: MoMeooW said -> when u play <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:06:48]: MoMeooW said -> it is good ._. <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:06:51]: zx26 said -> let me build mine? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:06:55]: zx26 said -> copy it and lemme <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:07:02]: MoMeooW said -> ok u can build it some where is lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:07:02]: zx26 said -> build my hub again .. <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:07:16]: MoMeooW said -> else* <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:07:27]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -25.
+[22:07:27]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -25.
+[22:07:27]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -25.
+[22:07:30]: zx26 ran the command /BUILD.
+[22:07:31]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -25.
+[22:07:31]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -26.
+[22:07:32]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -27.
+[22:07:33]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -28.
+[22:07:34]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -29.
+[22:07:35]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -30.
+[22:07:41]: zx26 placed the block GRASS_BLOCK at the location -20, 12, -31.
+[22:07:41]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -30.
+[22:07:42]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -29.
+[22:07:42]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -28.
+[22:07:42]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -27.
+[22:07:42]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -26.
+[22:07:43]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -25.
+[22:07:44]: zx26 placed the block GRASS_BLOCK at the location -20, 13, -31.
+[22:07:45]: zx26 placed the block GRASS_BLOCK at the location -21, 12, -31.
+[22:07:45]: zx26 placed the block GRASS_BLOCK at the location -21, 13, -31.
+[22:07:45]: zx26 broke the block GRASS_BLOCK at the location -21, 13, -31.
+[22:07:46]: zx26 broke the block GRASS_BLOCK at the location -20, 13, -31.
+[22:07:46]: zx26 placed the block GRASS_BLOCK at the location -22, 12, -31.
+[22:07:46]: zx26 placed the block GRASS_BLOCK at the location -22, 13, -31.
+[22:07:47]: zx26 placed the block GRASS_BLOCK at the location -23, 12, -31.
+[22:07:47]: zx26 broke the block GRASS_BLOCK at the location -22, 13, -31.
+[22:07:48]: zx26 broke the block GRASS_BLOCK at the location -22, 12, -31.
+[22:07:48]: zx26 broke the block GRASS_BLOCK at the location -21, 12, -31.
+[22:07:49]: zx26 broke the block GRASS_BLOCK at the location -20, 12, -31.
+[22:07:52]: MoMeooW said -> it is not fucking weird <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:07:53]: zx26 placed the block GRASS_BLOCK at the location -29, 12, -11.
+[22:07:54]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:07:54]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -11.
+[22:07:54]: zx26 broke the block GRASS_BLOCK at the location -29, 12, -11.
+[22:07:55]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -12.
+[22:07:55]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -13.
+[22:07:56]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -14.
+[22:07:56]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -15.
+[22:07:56]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -16.
+[22:07:56]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -17.
+[22:07:56]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -18.
+[22:07:57]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -19.
+[22:07:57]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -20.
+[22:07:57]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -21.
+[22:07:57]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -22.
+[22:07:57]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -23.
+[22:07:58]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -24.
+[22:07:58]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -25.
+[22:07:58]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -26.
+[22:08:00]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -27.
+[22:08:00]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -28.
+[22:08:00]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -29.
+[22:08:00]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -30.
+[22:08:01]: zx26 placed the block GRASS_BLOCK at the location -30, 12, -31.
+[22:08:02]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -30.
+[22:08:02]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -29.
+[22:08:03]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -28.
+[22:08:03]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -27.
+[22:08:03]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -26.
+[22:08:03]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -25.
+[22:08:03]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -24.
+[22:08:04]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -23.
+[22:08:04]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -22.
+[22:08:04]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -21.
+[22:08:05]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -20.
+[22:08:05]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -19.
+[22:08:05]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -18.
+[22:08:05]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -17.
+[22:08:05]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -16.
+[22:08:05]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -15.
+[22:08:06]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -14.
+[22:08:06]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -13.
+[22:08:06]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -12.
+[22:08:06]: zx26 broke the block GRASS_BLOCK at the location -30, 12, -11.
+[22:08:13]: zx26 placed the block GRASS_BLOCK at the location -30, 13, -31.
+[22:08:14]: zx26 placed the block GRASS_BLOCK at the location -29, 12, -31.
+[22:08:15]: zx26 placed the block GRASS_BLOCK at the location -28, 12, -31.
+[22:08:15]: zx26 placed the block GRASS_BLOCK at the location -27, 12, -31.
+[22:08:16]: zx26 placed the block GRASS_BLOCK at the location -26, 12, -31.
+[22:08:17]: zx26 placed the block GRASS_BLOCK at the location -25, 12, -31.
+[22:08:17]: zx26 broke the block GRASS_BLOCK at the location -23, 12, -31.
+[22:08:18]: zx26 broke the block GRASS_BLOCK at the location -25, 12, -31.
+[22:08:18]: zx26 broke the block GRASS_BLOCK at the location -26, 12, -31.
+[22:08:18]: zx26 broke the block GRASS_BLOCK at the location -27, 12, -31.
+[22:08:19]: zx26 broke the block GRASS_BLOCK at the location -28, 12, -31.
+[22:08:19]: zx26 broke the block GRASS_BLOCK at the location -30, 13, -31.
+[22:08:20]: zx26 broke the block GRASS_BLOCK at the location -29, 12, -31.
+[22:08:33]: zx26 said -> it is <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:08:43]: zx26 placed the block GRASS_BLOCK at the location 9, 12, 29.
+[22:08:44]: zx26 placed the block GRASS_BLOCK at the location 10, 12, 29.
+[22:08:44]: zx26 broke the block GRASS_BLOCK at the location 9, 12, 29.
+[22:08:45]: zx26 placed the block GRASS_BLOCK at the location 11, 12, 29.
+[22:08:45]: zx26 placed the block GRASS_BLOCK at the location 12, 12, 29.
+[22:08:45]: zx26 placed the block GRASS_BLOCK at the location 13, 12, 29.
+[22:08:45]: zx26 placed the block GRASS_BLOCK at the location 14, 12, 29.
+[22:08:46]: zx26 placed the block GRASS_BLOCK at the location 15, 12, 29.
+[22:08:46]: MoMeooW said -> it is your opinion <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:08:46]: zx26 placed the block GRASS_BLOCK at the location 16, 12, 29.
+[22:08:46]: zx26 placed the block GRASS_BLOCK at the location 17, 12, 29.
+[22:08:46]: zx26 placed the block GRASS_BLOCK at the location 18, 12, 29.
+[22:08:46]: zx26 placed the block GRASS_BLOCK at the location 19, 12, 29.
+[22:08:47]: zx26 placed the block GRASS_BLOCK at the location 20, 12, 29.
+[22:08:47]: zx26 placed the block GRASS_BLOCK at the location 21, 12, 29.
+[22:08:47]: zx26 placed the block GRASS_BLOCK at the location 22, 12, 29.
+[22:08:47]: zx26 placed the block GRASS_BLOCK at the location 23, 12, 29.
+[22:08:47]: zx26 placed the block GRASS_BLOCK at the location 24, 12, 29.
+[22:08:48]: zx26 placed the block GRASS_BLOCK at the location 25, 12, 29.
+[22:08:48]: zx26 placed the block GRASS_BLOCK at the location 26, 12, 29.
+[22:08:48]: zx26 placed the block GRASS_BLOCK at the location 27, 12, 29.
+[22:08:48]: zx26 placed the block GRASS_BLOCK at the location 28, 12, 29.
+[22:08:50]: zx26 broke the block GRASS_BLOCK at the location 27, 12, 29.
+[22:08:50]: zx26 broke the block GRASS_BLOCK at the location 26, 12, 29.
+[22:08:50]: zx26 broke the block GRASS_BLOCK at the location 25, 12, 29.
+[22:08:51]: zx26 broke the block GRASS_BLOCK at the location 24, 12, 29.
+[22:08:51]: zx26 broke the block GRASS_BLOCK at the location 23, 12, 29.
+[22:08:51]: zx26 broke the block GRASS_BLOCK at the location 22, 12, 29.
+[22:08:52]: zx26 broke the block GRASS_BLOCK at the location 21, 12, 29.
+[22:08:52]: zx26 broke the block GRASS_BLOCK at the location 20, 12, 29.
+[22:08:52]: zx26 broke the block GRASS_BLOCK at the location 19, 12, 29.
+[22:08:52]: zx26 broke the block GRASS_BLOCK at the location 18, 12, 29.
+[22:08:53]: zx26 broke the block GRASS_BLOCK at the location 17, 12, 29.
+[22:08:53]: zx26 broke the block GRASS_BLOCK at the location 15, 12, 29.
+[22:08:53]: zx26 broke the block GRASS_BLOCK at the location 14, 12, 29.
+[22:08:54]: zx26 broke the block GRASS_BLOCK at the location 13, 12, 29.
+[22:08:54]: zx26 broke the block GRASS_BLOCK at the location 16, 12, 29.
+[22:08:54]: MoMeooW said -> and i don't give a shit about it <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:08:55]: zx26 broke the block GRASS_BLOCK at the location 12, 12, 29.
+[22:08:55]: zx26 broke the block GRASS_BLOCK at the location 11, 12, 29.
+[22:08:55]: zx26 broke the block GRASS_BLOCK at the location 10, 12, 29.
+[22:09:00]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 8.
+[22:09:00]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 9.
+[22:09:01]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 8.
+[22:09:04]: zx26 said -> you give <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:09:07]: zx26 said -> every minute <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:09:11]: zx26 said -> you give a shit everywhere <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:09:12]: MoMeooW said -> i don't ,_, <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:09:13]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 10.
+[22:09:14]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 11.
+[22:09:14]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 12.
+[22:09:14]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 13.
+[22:09:14]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 14.
+[22:09:14]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 15.
+[22:09:15]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 16.
+[22:09:15]: MoMeooW said -> wtf <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:09:15]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 17.
+[22:09:15]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 18.
+[22:09:15]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 19.
+[22:09:15]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 20.
+[22:09:16]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 21.
+[22:09:16]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 22.
+[22:09:16]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 23.
+[22:09:16]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 24.
+[22:09:16]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 25.
+[22:09:17]: MoMeooW said -> fk u <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:09:17]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 26.
+[22:09:17]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 27.
+[22:09:17]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 28.
+[22:09:18]: zx26 placed the block GRASS_BLOCK at the location 30, 12, 29.
+[22:09:19]: zx26 broke the block GRASS_BLOCK at the location 28, 12, 29.
+[22:09:20]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 28.
+[22:09:20]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 27.
+[22:09:20]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 24.
+[22:09:21]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 26.
+[22:09:21]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 25.
+[22:09:21]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 23.
+[22:09:22]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 22.
+[22:09:22]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 21.
+[22:09:22]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 20.
+[22:09:22]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 19.
+[22:09:23]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 18.
+[22:09:23]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 17.
+[22:09:23]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 15.
+[22:09:24]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 16.
+[22:09:24]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 14.
+[22:09:24]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 13.
+[22:09:24]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 12.
+[22:09:25]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 11.
+[22:09:25]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 10.
+[22:09:25]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 9.
+[22:09:29]: MoMeooW said -> stop breaking my area ,_, <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:09:30]: zx26 placed the block GRASS_BLOCK at the location 30, 13, 29.
+[22:09:31]: zx26 placed the block GRASS_BLOCK at the location 30, 14, 29.
+[22:09:31]: zx26 placed the block GRASS_BLOCK at the location 30, 15, 29.
+[22:09:31]: zx26 placed the block GRASS_BLOCK at the location 30, 16, 29.
+[22:09:32]: zx26 placed the block GRASS_BLOCK at the location 30, 17, 29.
+[22:09:32]: zx26 placed the block GRASS_BLOCK at the location 30, 18, 29.
+[22:09:32]: zx26 placed the block GRASS_BLOCK at the location 30, 19, 29.
+[22:09:33]: zx26 placed the block GRASS_BLOCK at the location 30, 20, 29.
+[22:09:33]: zx26 placed the block GRASS_BLOCK at the location 30, 21, 29.
+[22:09:33]: zx26 placed the block GRASS_BLOCK at the location 30, 22, 29.
+[22:09:34]: zx26 broke the block GRASS_BLOCK at the location 30, 21, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 20, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 19, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 18, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 17, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 16, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 15, 29.
+[22:09:35]: zx26 broke the block GRASS_BLOCK at the location 30, 14, 29.
+[22:09:36]: zx26 broke the block GRASS_BLOCK at the location 30, 13, 29.
+[22:09:36]: zx26 broke the block GRASS_BLOCK at the location 30, 12, 29.
+[22:09:42]: MoMeooW ran the command //set 0.
+[22:09:51]: zx26 ran the command //cut.
+[22:09:53]: The TPS is 20.
+[22:09:53]: The current RAM usage is 3018MB / 3800MB (79.42%).
+[22:09:54]: The current player count is 2.
+[22:09:58]: MoMeooW said -> wtf <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:10:01]: zx26 said -> how do you feel? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:10:06]: zx26 said -> xDDD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:10:13]: MoMeooW said -> if u don't remember <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:10:22]: MoMeooW said -> i undid <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:10:24]: MoMeooW said -> what i did <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:10:36]: zx26 said -> and where it is right now? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:10:40]: zx26 said -> its dead <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:10:47]: zx26 said -> the important things are the "results" <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:10:53]: zx26 said -> no result = failure <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:10:55]: MoMeooW said -> yup u said "build it yourself then" <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:11:09]: zx26 said -> you didn't undo what you did till then <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:11:16]: MoMeooW said -> wtf i did <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:11:16]: zx26 ran the command //undo.
+[22:11:29]: MoMeooW ran the command /up 1.
+[22:11:29]: MoMeooW teleported to -26, 36, 29.
+[22:11:33]: zx26 ran the command //copy.
+[22:11:46]: MoMeooW ran the command /up 1.
+[22:11:46]: MoMeooW teleported to 27, 11, -31.
+[22:11:52]: zx26 ran the command //paste.
+[22:11:56]: MoMeooW placed the block GLASS at the location 27, 10, -32.
+[22:11:56]: MoMeooW placed the block GLASS at the location 28, 10, -32.
+[22:11:56]: MoMeooW placed the block GLASS at the location 28, 10, -33.
+[22:11:57]: MoMeooW placed the block GLASS at the location 28, 10, -34.
+[22:11:57]: MoMeooW placed the block GLASS at the location 29, 10, -33.
+[22:11:57]: MoMeooW placed the block GLASS at the location 29, 10, -34.
+[22:11:57]: MoMeooW placed the block GLASS at the location 29, 10, -35.
+[22:11:58]: MoMeooW placed the block GLASS at the location 30, 10, -35.
+[22:11:58]: MoMeooW placed the block GLASS at the location 30, 10, -36.
+[22:11:58]: MoMeooW placed the block GLASS at the location 31, 10, -36.
+[22:12:06]: zx26 ran the command //undo.
+[22:12:07]: MoMeooW said -> wtf r u doing <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:12:09]: MoMeooW said -> ._> <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:12:14]: zx26 said -> coping it <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:12:22]: MoMeooW placed the block GLASS at the location -27, 35, 29.
+[22:12:23]: MoMeooW placed the block GLASS at the location -26, 35, 30.
+[22:12:24]: MoMeooW placed the block GLASS at the location -27, 35, 30.
+[22:12:25]: MoMeooW placed the block GLASS at the location -28, 35, 30.
+[22:12:25]: MoMeooW placed the block GLASS at the location -28, 35, 31.
+[22:12:25]: MoMeooW placed the block GLASS at the location -29, 35, 31.
+[22:12:25]: MoMeooW placed the block GLASS at the location -30, 35, 31.
+[22:12:25]: MoMeooW placed the block GLASS at the location -30, 35, 32.
+[22:12:26]: MoMeooW placed the block GLASS at the location -31, 35, 32.
+[22:12:27]: MoMeooW placed the block GLASS at the location -32, 35, 32.
+[22:12:27]: zx26 ran the command //paste.
+[22:12:27]: MoMeooW placed the block GLASS at the location -31, 35, 33.
+[22:12:28]: MoMeooW placed the block GLASS at the location -32, 35, 33.
+[22:12:28]: MoMeooW placed the block GLASS at the location -33, 35, 33.
+[22:12:33]: MoMeooW broke the block GLASS at the location -33, 35, 33.
+[22:12:33]: MoMeooW broke the block GLASS at the location -32, 35, 33.
+[22:12:33]: MoMeooW broke the block GLASS at the location -31, 35, 33.
+[22:12:33]: MoMeooW broke the block GLASS at the location -31, 35, 32.
+[22:12:34]: MoMeooW broke the block GLASS at the location -30, 35, 32.
+[22:12:34]: MoMeooW broke the block GLASS at the location -32, 35, 32.
+[22:12:34]: MoMeooW broke the block GLASS at the location -30, 35, 31.
+[22:12:35]: MoMeooW broke the block GLASS at the location -29, 35, 31.
+[22:12:35]: MoMeooW broke the block GLASS at the location -28, 35, 31.
+[22:12:35]: MoMeooW broke the block GLASS at the location -28, 35, 30.
+[22:12:36]: MoMeooW broke the block GLASS at the location -27, 35, 30.
+[22:12:36]: MoMeooW broke the block GLASS at the location -26, 35, 30.
+[22:12:36]: MoMeooW broke the block GLASS at the location -27, 35, 29.
+[22:12:36]: MoMeooW broke the block GLASS at the location -26, 35, 29.
+[22:12:52]: zx26 broke the block STONE_BRICKS at the location -56, 14, -57.
+[22:12:53]: MoMeooW broke the block GLASS at the location 30, 10, -36.
+[22:12:53]: MoMeooW broke the block GLASS at the location 31, 10, -36.
+[22:12:54]: zx26 broke the block STONE_BRICK_STAIRS at the location -55, 14, -57.
+[22:12:54]: MoMeooW broke the block GLASS at the location 30, 10, -35.
+[22:12:54]: zx26 broke the block STONE_BRICK_STAIRS at the location -54, 14, -57.
+[22:12:54]: MoMeooW broke the block GLASS at the location 28, 10, -34.
+[22:12:54]: zx26 broke the block STONE_BRICK_STAIRS at the location -53, 14, -57.
+[22:12:54]: MoMeooW broke the block GLASS at the location 29, 10, -35.
+[22:12:54]: MoMeooW broke the block GLASS at the location 29, 10, -34.
+[22:12:54]: zx26 broke the block STONE_BRICK_STAIRS at the location -52, 14, -57.
+[22:12:55]: MoMeooW broke the block GLASS at the location 28, 10, -33.
+[22:12:55]: zx26 broke the block STONE_BRICK_STAIRS at the location -51, 14, -57.
+[22:12:55]: zx26 broke the block STONE_BRICKS at the location -50, 14, -57.
+[22:12:56]: MoMeooW broke the block GLASS at the location 29, 10, -33.
+[22:12:56]: zx26 broke the block STONE_BRICKS at the location -49, 14, -58.
+[22:12:56]: zx26 broke the block STONE_BRICKS at the location -48, 14, -58.
+[22:12:56]: MoMeooW broke the block GLASS at the location 28, 10, -32.
+[22:12:56]: zx26 broke the block STONE_BRICKS at the location -47, 14, -58.
+[22:12:56]: MoMeooW broke the block GLASS at the location 27, 10, -32.
+[22:12:57]: zx26 broke the block STONE_BRICKS at the location -47, 14, -59.
+[22:12:57]: zx26 broke the block STONE_BRICKS at the location -46, 14, -60.
+[22:12:57]: zx26 broke the block STONE_BRICKS at the location -46, 14, -59.
+[22:12:57]: MoMeooW broke the block GLASS at the location 27, 10, -31.
+[22:12:57]: zx26 broke the block STONE_BRICKS at the location -45, 14, -60.
+[22:12:58]: zx26 broke the block STONE_BRICKS at the location -44, 14, -60.
+[22:12:58]: zx26 broke the block STONE_BRICKS at the location -44, 14, -61.
+[22:12:58]: zx26 broke the block QUARTZ_BLOCK at the location -44, 14, -62.
+[22:12:59]: zx26 broke the block STONE_BRICKS at the location -43, 14, -61.
+[22:12:59]: zx26 broke the block QUARTZ_BLOCK at the location -45, 14, -61.
+[22:13:00]: zx26 broke the block STONE_BRICKS at the location -43, 14, -62.
+[22:13:00]: zx26 broke the block STONE_BRICKS at the location -43, 14, -63.
+[22:13:01]: zx26 broke the block STONE_BRICKS at the location -42, 14, -63.
+[22:13:01]: zx26 broke the block STONE_BRICKS at the location -42, 14, -64.
+[22:13:01]: zx26 broke the block QUARTZ_BLOCK at the location -43, 14, -64.
+[22:13:02]: zx26 broke the block STONE_BRICKS at the location -41, 14, -64.
+[22:13:02]: zx26 broke the block QUARTZ_BLOCK at the location -42, 14, -65.
+[22:13:02]: zx26 broke the block STONE_BRICKS at the location -41, 14, -65.
+[22:13:02]: zx26 broke the block STONE_BRICKS at the location -41, 14, -66.
+[22:13:03]: zx26 broke the block STONE_BRICKS at the location -41, 14, -67.
+[22:13:03]: zx26 broke the block QUARTZ_BLOCK at the location -42, 14, -66.
+[22:13:04]: zx26 broke the block STONE_BRICKS at the location -40, 14, -67.
+[22:13:04]: zx26 broke the block STONE_BRICK_STAIRS at the location -40, 14, -68.
+[22:13:04]: zx26 broke the block STONE_BRICK_STAIRS at the location -40, 14, -69.
+[22:13:04]: zx26 broke the block QUARTZ_BLOCK at the location -41, 14, -68.
+[22:13:05]: zx26 broke the block STONE_BRICK_STAIRS at the location -40, 14, -70.
+[22:13:08]: zx26 broke the block STONE_BRICK_STAIRS at the location -40, 14, -71.
+[22:13:09]: zx26 broke the block QUARTZ_BLOCK at the location -41, 14, -69.
+[22:13:09]: zx26 broke the block QUARTZ_BLOCK at the location -41, 14, -70.
+[22:13:09]: zx26 broke the block QUARTZ_BLOCK at the location -41, 14, -72.
+[22:13:10]: zx26 broke the block STONE_BRICK_STAIRS at the location -40, 14, -72.
+[22:13:10]: zx26 broke the block QUARTZ_BLOCK at the location -41, 14, -71.
+[22:13:10]: zx26 broke the block STONE_BRICKS at the location -40, 14, -73.
+[22:13:11]: zx26 broke the block STONE_BRICKS at the location -41, 14, -73.
+[22:13:11]: zx26 broke the block STONE_BRICKS at the location -41, 14, -74.
+[22:13:11]: zx26 broke the block STONE_BRICKS at the location -41, 14, -75.
+[22:13:12]: zx26 broke the block STONE_BRICKS at the location -41, 14, -76.
+[22:13:12]: zx26 broke the block QUARTZ_BLOCK at the location -42, 14, -74.
+[22:13:12]: zx26 broke the block QUARTZ_BLOCK at the location -42, 14, -75.
+[22:13:13]: zx26 broke the block STONE_BRICKS at the location -42, 14, -76.
+[22:13:13]: zx26 broke the block STONE_BRICKS at the location -42, 14, -77.
+[22:13:13]: zx26 broke the block STONE_BRICKS at the location -43, 14, -77.
+[22:13:14]: zx26 broke the block STONE_BRICKS at the location -43, 14, -78.
+[22:13:15]: MoMeooW ran the command //cut.
+[22:13:15]: zx26 broke the block QUARTZ_BLOCK at the location -44, 14, -78.
+[22:13:17]: zx26 broke the block QUARTZ_BLOCK at the location -43, 14, -76.
+[22:13:17]: zx26 broke the block STONE_BRICKS at the location -43, 14, -79.
+[22:13:18]: MoMeooW teleported to 0, 1, -1.
+[22:13:18]: zx26 broke the block STONE_BRICKS at the location -44, 14, -79.
+[22:13:18]: zx26 broke the block QUARTZ_BLOCK at the location -45, 14, -79.
+[22:13:18]: zx26 broke the block STONE_BRICKS at the location -44, 14, -80.
+[22:13:18]: MoMeooW teleported to 0, 1, -1.
+[22:13:18]: zx26 broke the block STONE_BRICKS at the location -45, 14, -80.
+[22:13:19]: MoMeooW teleported to 0, 1, -1.
+[22:13:19]: zx26 broke the block STONE_BRICKS at the location -46, 14, -80.
+[22:13:19]: zx26 broke the block STONE_BRICKS at the location -46, 14, -81.
+[22:13:19]: MoMeooW teleported to 0, 1, -1.
+[22:13:19]: zx26 broke the block STONE_BRICKS at the location -47, 14, -81.
+[22:13:20]: MoMeooW teleported to 0, 1, -1.
+[22:13:20]: zx26 broke the block QUARTZ_BLOCK at the location -48, 14, -81.
+[22:13:20]: zx26 broke the block QUARTZ_BLOCK at the location -49, 14, -81.
+[22:13:20]: MoMeooW teleported to 0, 1, -1.
+[22:13:21]: zx26 broke the block QUARTZ_BLOCK at the location -47, 14, -80.
+[22:13:22]: zx26 broke the block STONE_BRICKS at the location -47, 14, -82.
+[22:13:22]: zx26 broke the block STONE_BRICKS at the location -48, 14, -82.
+[22:13:22]: zx26 broke the block STONE_BRICKS at the location -49, 14, -82.
+[22:13:23]: zx26 broke the block STONE_BRICKS at the location -50, 14, -82.
+[22:13:23]: zx26 broke the block STONE_BRICKS at the location -50, 14, -83.
+[22:13:23]: zx26 broke the block STONE_BRICK_STAIRS at the location -51, 14, -83.
+[22:13:24]: zx26 broke the block STONE_BRICK_STAIRS at the location -52, 14, -83.
+[22:13:24]: zx26 broke the block QUARTZ_BLOCK at the location -51, 14, -82.
+[22:13:24]: zx26 broke the block STONE_BRICK_STAIRS at the location -53, 14, -83.
+[22:13:25]: zx26 broke the block STONE_BRICK_STAIRS at the location -54, 14, -83.
+[22:13:25]: zx26 broke the block QUARTZ_BLOCK at the location -52, 14, -82.
+[22:13:25]: zx26 broke the block QUARTZ_BLOCK at the location -53, 14, -82.
+[22:13:26]: zx26 broke the block QUARTZ_BLOCK at the location -54, 14, -82.
+[22:13:26]: zx26 broke the block QUARTZ_BLOCK at the location -55, 14, -82.
+[22:13:26]: zx26 broke the block STONE_BRICK_STAIRS at the location -55, 14, -83.
+[22:13:26]: zx26 broke the block STONE_BRICKS at the location -56, 14, -83.
+[22:13:27]: zx26 broke the block STONE_BRICKS at the location -56, 14, -82.
+[22:13:27]: zx26 broke the block STONE_BRICKS at the location -57, 14, -82.
+[22:13:27]: zx26 broke the block STONE_BRICKS at the location -58, 14, -82.
+[22:13:28]: zx26 broke the block STONE_BRICKS at the location -59, 14, -82.
+[22:13:28]: zx26 broke the block QUARTZ_BLOCK at the location -57, 14, -81.
+[22:13:28]: zx26 broke the block QUARTZ_BLOCK at the location -58, 14, -81.
+[22:13:29]: zx26 broke the block STONE_BRICKS at the location -59, 14, -81.
+[22:13:29]: zx26 broke the block STONE_BRICKS at the location -60, 14, -81.
+[22:13:29]: zx26 broke the block QUARTZ_BLOCK at the location -59, 14, -80.
+[22:13:30]: zx26 broke the block STONE_BRICKS at the location -60, 14, -80.
+[22:13:30]: zx26 broke the block STONE_BRICKS at the location -61, 14, -80.
+[22:13:30]: zx26 broke the block STONE_BRICKS at the location -62, 14, -80.
+[22:13:31]: zx26 broke the block STONE_BRICKS at the location -62, 14, -79.
+[22:13:31]: zx26 broke the block QUARTZ_BLOCK at the location -62, 14, -78.
+[22:13:31]: zx26 broke the block STONE_BRICKS at the location -62, 13, -80.
+[22:13:32]: zx26 broke the block QUARTZ_BLOCK at the location -61, 14, -79.
+[22:13:33]: zx26 broke the block STONE_BRICKS at the location -63, 14, -79.
+[22:13:33]: zx26 broke the block STONE_BRICKS at the location -63, 14, -78.
+[22:13:33]: zx26 broke the block STONE_BRICKS at the location -64, 14, -77.
+[22:13:34]: zx26 broke the block STONE_BRICKS at the location -63, 14, -77.
+[22:13:34]: zx26 broke the block STONE_BRICKS at the location -64, 14, -76.
+[22:13:34]: zx26 broke the block QUARTZ_BLOCK at the location -64, 14, -75.
+[22:13:35]: zx26 broke the block QUARTZ_BLOCK at the location -63, 14, -76.
+[22:13:35]: zx26 broke the block STONE_BRICKS at the location -65, 14, -76.
+[22:13:35]: zx26 broke the block STONE_BRICKS at the location -65, 14, -75.
+[22:13:36]: zx26 broke the block STONE_BRICKS at the location -65, 14, -74.
+[22:13:36]: zx26 broke the block QUARTZ_BLOCK at the location -64, 14, -74.
+[22:13:36]: zx26 broke the block STONE_BRICKS at the location -66, 14, -73.
+[22:13:37]: zx26 broke the block STONE_BRICK_STAIRS at the location -66, 14, -72.
+[22:13:37]: zx26 broke the block QUARTZ_BLOCK at the location -65, 14, -72.
+[22:13:37]: zx26 broke the block QUARTZ_BLOCK at the location -65, 14, -71.
+[22:13:38]: zx26 broke the block STONE_BRICKS at the location -65, 14, -73.
+[22:13:38]: zx26 broke the block QUARTZ_BLOCK at the location -65, 14, -70.
+[22:13:38]: zx26 broke the block STONE_BRICK_STAIRS at the location -66, 14, -71.
+[22:13:38]: zx26 broke the block STONE_BRICK_STAIRS at the location -66, 14, -70.
+[22:13:39]: zx26 broke the block STONE_BRICK_STAIRS at the location -66, 14, -69.
+[22:13:39]: zx26 broke the block STONE_BRICK_STAIRS at the location -66, 14, -68.
+[22:13:39]: MoMeooW ran the command //paste.
+[22:13:40]: zx26 broke the block QUARTZ_BLOCK at the location -65, 14, -68.
+[22:13:40]: zx26 broke the block QUARTZ_BLOCK at the location -65, 14, -69.
+[22:13:40]: zx26 broke the block STONE_BRICKS at the location -65, 14, -67.
+[22:13:40]: zx26 broke the block STONE_BRICKS at the location -66, 14, -67.
+[22:13:41]: zx26 broke the block STONE_BRICKS at the location -65, 14, -66.
+[22:13:41]: zx26 broke the block STONE_BRICKS at the location -65, 14, -65.
+[22:13:41]: zx26 broke the block QUARTZ_BLOCK at the location -64, 14, -66.
+[22:13:42]: zx26 broke the block QUARTZ_BLOCK at the location -64, 14, -65.
+[22:13:42]: zx26 broke the block STONE_BRICKS at the location -65, 14, -64.
+[22:13:42]: zx26 broke the block STONE_BRICKS at the location -64, 14, -64.
+[22:13:43]: zx26 broke the block STONE_BRICKS at the location -64, 14, -63.
+[22:13:43]: zx26 broke the block STONE_BRICKS at the location -63, 14, -63.
+[22:13:43]: zx26 broke the block QUARTZ_BLOCK at the location -62, 14, -62.
+[22:13:44]: zx26 broke the block QUARTZ_BLOCK at the location -63, 14, -64.
+[22:13:45]: zx26 broke the block STONE_BRICKS at the location -63, 14, -62.
+[22:13:45]: zx26 broke the block STONE_BRICKS at the location -63, 14, -61.
+[22:13:45]: zx26 broke the block STONE_BRICKS at the location -62, 14, -61.
+[22:13:46]: zx26 broke the block QUARTZ_BLOCK at the location -61, 14, -61.
+[22:13:46]: zx26 broke the block STONE_BRICKS at the location -62, 14, -60.
+[22:13:46]: zx26 broke the block STONE_BRICKS at the location -61, 14, -60.
+[22:13:47]: zx26 broke the block STONE_BRICKS at the location -60, 14, -60.
+[22:13:47]: zx26 broke the block QUARTZ_BLOCK at the location -59, 14, -60.
+[22:13:47]: zx26 broke the block STONE_BRICKS at the location -60, 14, -59.
+[22:13:47]: zx26 broke the block STONE_BRICKS at the location -59, 14, -59.
+[22:13:48]: zx26 broke the block STONE_BRICKS at the location -59, 14, -58.
+[22:13:48]: zx26 broke the block STONE_BRICKS at the location -58, 14, -58.
+[22:13:48]: zx26 broke the block QUARTZ_BLOCK at the location -58, 14, -59.
+[22:13:49]: zx26 broke the block QUARTZ_BLOCK at the location -57, 14, -59.
+[22:13:49]: zx26 broke the block STONE_BRICKS at the location -57, 14, -58.
+[22:13:49]: zx26 broke the block STONE_BRICKS at the location -56, 14, -58.
+[22:13:50]: zx26 broke the block QUARTZ_BLOCK at the location -55, 14, -58.
+[22:13:50]: zx26 broke the block QUARTZ_BLOCK at the location -54, 14, -58.
+[22:13:50]: zx26 broke the block QUARTZ_BLOCK at the location -53, 14, -58.
+[22:13:51]: zx26 broke the block QUARTZ_BLOCK at the location -52, 14, -58.
+[22:13:51]: zx26 broke the block QUARTZ_BLOCK at the location -51, 14, -58.
+[22:13:51]: zx26 broke the block STONE_BRICKS at the location -50, 14, -58.
+[22:13:52]: zx26 broke the block QUARTZ_BLOCK at the location -48, 14, -59.
+[22:13:53]: zx26 broke the block QUARTZ_BLOCK at the location -49, 14, -59.
+[22:13:54]: zx26 broke the block QUARTZ_BLOCK at the location -47, 14, -60.
+[22:13:54]: zx26 broke the block STONE_BRICKS at the location -46, 15, -61.
+[22:13:55]: zx26 broke the block STONE_BRICKS at the location -46, 15, -62.
+[22:13:55]: zx26 broke the block STONE_BRICKS at the location -45, 15, -62.
+[22:13:55]: zx26 broke the block STONE_BRICKS at the location -44, 15, -63.
+[22:13:55]: zx26 broke the block STONE_BRICKS at the location -44, 15, -64.
+[22:13:56]: zx26 broke the block STONE_BRICKS at the location -44, 15, -65.
+[22:14:02]: MoMeooW said -> happy now bitch? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:14:05]: zx26 placed the block TNT at the location -54, 16, -71.
+[22:14:12]: zx26 said -> why did you remove it? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:14:13]: zx26 said -> lmfao <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:14:16]: zx26 placed the block REDSTONE_BLOCK at the location -53, 16, -71.
+[22:14:16]: zx26 broke the block REDSTONE_BLOCK at the location -53, 16, -71.
+[22:14:17]: MoMeooW said -> didn't <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:14:22]: zx26 said -> wtf? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:14:24]: MoMeooW said -> i cuted it <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:14:28]: zx26 said -> lol <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:14:32]: zx26 placed the block TNT at the location -53, 16, -71.
+[22:14:33]: zx26 placed the block REDSTONE_BLOCK at the location -53, 16, -70.
+[22:14:33]: MoMeooW broke the block GRASS_BLOCK at the location -13, 13, 134.
+[22:14:34]: zx26 placed the block TNT at the location -52, 16, -70.
+[22:14:39]: MoMeooW ran the command /tp 0 0 0.
+[22:14:40]: zx26 broke the block REDSTONE_BLOCK at the location -53, 16, -70.
+[22:14:40]: zx26 broke the block STONE_BRICKS at the location -53, 15, -70.
+[22:14:40]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -70.
+[22:14:41]: zx26 broke the block STONE_BRICKS at the location -51, 15, -70.
+[22:14:42]: zx26 broke the block STONE_BRICKS at the location -48, 15, -69.
+[22:14:42]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -69.
+[22:14:42]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -69.
+[22:14:42]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -68.
+[22:14:42]: zx26 broke the block STONE_BRICKS at the location -51, 15, -69.
+[22:14:43]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -69.
+[22:14:43]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -70.
+[22:14:43]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -68.
+[22:14:43]: zx26 broke the block STONE_BRICKS at the location -49, 15, -68.
+[22:14:43]: zx26 broke the block STONE_BRICKS at the location -48, 15, -68.
+[22:14:44]: zx26 broke the block STONE_BRICKS at the location -49, 15, -67.
+[22:14:44]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -67.
+[22:14:44]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -66.
+[22:14:44]: zx26 broke the block QUARTZ_STAIRS at the location -48, 16, -67.
+[22:14:45]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -48, 16, -66.
+[22:14:45]: zx26 broke the block QUARTZ_STAIRS at the location -49, 16, -67.
+[22:14:45]: zx26 broke the block QUARTZ_STAIRS at the location -49, 16, -66.
+[22:14:45]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -66.
+[22:14:46]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -48, 16, -65.
+[22:14:46]: zx26 broke the block END_PORTAL_FRAME at the location -48, 17, -65.
+[22:14:46]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -47, 16, -65.
+[22:14:46]: MoMeooW ran the command /tp MoMeooW 0 0 0.
+[22:14:47]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -66.
+[22:14:47]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -67.
+[22:14:47]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -68.
+[22:14:47]: zx26 broke the block STONE_BRICKS at the location -47, 15, -66.
+[22:14:47]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -64.
+[22:14:47]: zx26 broke the block STONE_BRICKS at the location -47, 15, -65.
+[22:14:47]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -67.
+[22:14:47]: zx26 broke the block STONE_BRICKS at the location -46, 15, -68.
+[22:14:48]: zx26 broke the block STONE_BRICKS at the location -46, 15, -67.
+[22:14:48]: zx26 broke the block STONE_BRICKS at the location -45, 15, -68.
+[22:14:48]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -67.
+[22:14:48]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -68.
+[22:14:48]: zx26 broke the block QUARTZ_BLOCK at the location -43, 15, -68.
+[22:14:48]: zx26 broke the block STONE_BRICKS at the location -43, 15, -67.
+[22:14:49]: zx26 broke the block STONE_BRICKS at the location -42, 15, -67.
+[22:14:49]: zx26 broke the block STONE_BRICKS at the location -43, 15, -66.
+[22:14:50]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -66.
+[22:14:50]: zx26 broke the block STONE_BRICKS at the location -43, 15, -65.
+[22:14:50]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -65.
+[22:14:50]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -66.
+[22:14:50]: zx26 broke the block STONE_BRICKS at the location -46, 15, -66.
+[22:14:51]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -65.
+[22:14:51]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -65.
+[22:14:51]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -64.
+[22:14:51]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -64.
+[22:14:51]: zx26 broke the block STONE_BRICKS at the location -47, 15, -64.
+[22:14:52]: zx26 broke the block STONE_BRICKS at the location -48, 15, -64.
+[22:14:52]: zx26 broke the block STONE_BRICKS at the location -45, 15, -63.
+[22:14:52]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -63.
+[22:14:52]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -63.
+[22:14:53]: zx26 broke the block QUARTZ_STAIRS at the location -46, 16, -64.
+[22:14:53]: zx26 broke the block QUARTZ_STAIRS at the location -46, 16, -65.
+[22:14:53]: zx26 broke the block QUARTZ_STAIRS at the location -46, 16, -66.
+[22:14:53]: The TPS is 20.
+[22:14:53]: The current RAM usage is 3313MB / 3800MB (87.18%).
+[22:14:54]: The current player count is 2.
+[22:14:54]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -63.
+[22:14:54]: MoMeooW ran the command /tp 0 0 0 MoMeooW.
+[22:14:54]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -48, 16, -64.
+[22:14:55]: zx26 broke the block STONE_BRICKS at the location -49, 15, -64.
+[22:14:55]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -64.
+[22:14:55]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -63.
+[22:14:55]: zx26 broke the block STONE_BRICKS at the location -49, 15, -63.
+[22:14:55]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -62.
+[22:14:56]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -62.
+[22:14:56]: zx26 broke the block STONE_BRICKS at the location -50, 15, -63.
+[22:14:56]: zx26 broke the block STONE_BRICKS at the location -48, 15, -61.
+[22:14:56]: zx26 broke the block STONE_BRICKS at the location -47, 15, -61.
+[22:14:57]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -61.
+[22:14:57]: zx26 broke the block STONE_BRICKS at the location -48, 15, -60.
+[22:15:00]: zx26 broke the block STONE_BRICKS at the location -50, 15, -59.
+[22:15:00]: zx26 broke the block STONE_BRICK_STAIRS at the location -51, 15, -59.
+[22:15:00]: zx26 broke the block STONE_BRICKS at the location -50, 15, -60.
+[22:15:01]: zx26 broke the block STONE_BRICK_STAIRS at the location -52, 15, -59.
+[22:15:01]: zx26 broke the block STONE_BRICK_STAIRS at the location -53, 15, -59.
+[22:15:01]: zx26 broke the block STONE_BRICK_STAIRS at the location -54, 15, -59.
+[22:15:01]: zx26 broke the block QUARTZ_BLOCK at the location -53, 15, -61.
+[22:15:01]: zx26 broke the block QUARTZ_BLOCK at the location -54, 15, -60.
+[22:15:02]: zx26 broke the block QUARTZ_BLOCK at the location -53, 15, -60.
+[22:15:02]: MoMeooW ran the command /tp 0 1 0 MoMeooW.
+[22:15:02]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -60.
+[22:15:02]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -60.
+[22:15:02]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -61.
+[22:15:03]: zx26 broke the block STONE_BRICKS at the location -49, 15, -60.
+[22:15:03]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -62.
+[22:15:04]: zx26 broke the block QUARTZ_STAIRS at the location -48, 16, -63.
+[22:15:04]: zx26 broke the block QUARTZ_STAIRS at the location -49, 16, -63.
+[22:15:04]: zx26 broke the block QUARTZ_STAIRS at the location -49, 16, -64.
+[22:15:09]: MoMeooW ran the command /tp 1 1 1 MoMeooW.
+[22:15:10]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -65.
+[22:15:10]: zx26 broke the block STONE_BRICKS at the location -50, 15, -66.
+[22:15:11]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -49, 16, -65.
+[22:15:11]: zx26 broke the block QUARTZ_STAIRS at the location -50, 16, -64.
+[22:15:11]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -65.
+[22:15:11]: zx26 broke the block STONE_BRICKS at the location -51, 15, -66.
+[22:15:11]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -66.
+[22:15:11]: zx26 broke the block QUARTZ_STAIRS at the location -50, 16, -65.
+[22:15:11]: zx26 broke the block STONE_BRICKS at the location -51, 15, -65.
+[22:15:12]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -64.
+[22:15:12]: zx26 broke the block STONE_BRICKS at the location -51, 15, -63.
+[22:15:12]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -62.
+[22:15:12]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -61.
+[22:15:13]: zx26 broke the block STONE_BRICKS at the location -51, 15, -62.
+[22:15:13]: zx26 broke the block STONE_BRICKS at the location -52, 15, -62.
+[22:15:13]: zx26 broke the block STONE_BRICKS at the location -53, 15, -62.
+[22:15:13]: zx26 broke the block QUARTZ_BLOCK at the location -54, 15, -61.
+[22:15:13]: zx26 broke the block QUARTZ_BLOCK at the location -55, 15, -60.
+[22:15:14]: zx26 broke the block STONE_BRICKS at the location -56, 15, -59.
+[22:15:14]: zx26 broke the block STONE_BRICKS at the location -58, 15, -60.
+[22:15:14]: zx26 broke the block STONE_BRICKS at the location -56, 15, -60.
+[22:15:14]: zx26 broke the block STONE_BRICK_STAIRS at the location -55, 15, -59.
+[22:15:15]: zx26 broke the block QUARTZ_BLOCK at the location -56, 15, -61.
+[22:15:15]: zx26 broke the block QUARTZ_BLOCK at the location -56, 15, -62.
+[22:15:15]: zx26 broke the block STONE_BRICKS at the location -57, 15, -60.
+[22:15:15]: zx26 broke the block QUARTZ_BLOCK at the location -57, 15, -61.
+[22:15:16]: zx26 broke the block STONE_BRICKS at the location -58, 15, -61.
+[22:15:16]: zx26 broke the block STONE_BRICKS at the location -59, 15, -61.
+[22:15:16]: zx26 broke the block STONE_BRICKS at the location -60, 15, -61.
+[22:15:16]: zx26 broke the block STONE_BRICKS at the location -60, 15, -62.
+[22:15:16]: zx26 broke the block STONE_BRICKS at the location -61, 15, -62.
+[22:15:16]: MoMeooW ran the command /tp @s 1 1 1.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -61, 15, -63.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -62, 15, -63.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -62, 15, -64.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -63, 15, -65.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -63, 15, -66.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -63, 15, -67.
+[22:15:18]: zx26 broke the block STONE_BRICKS at the location -64, 15, -67.
+[22:15:18]: zx26 broke the block STONE_BRICK_STAIRS at the location -64, 15, -68.
+[22:15:18]: zx26 broke the block STONE_BRICK_STAIRS at the location -64, 15, -69.
+[22:15:18]: zx26 broke the block STONE_BRICK_STAIRS at the location -64, 15, -70.
+[22:15:18]: zx26 broke the block STONE_BRICK_STAIRS at the location -64, 15, -71.
+[22:15:18]: zx26 broke the block QUARTZ_BLOCK at the location -63, 15, -71.
+[22:15:19]: zx26 broke the block QUARTZ_BLOCK at the location -63, 15, -70.
+[22:15:19]: zx26 broke the block QUARTZ_BLOCK at the location -63, 15, -69.
+[22:15:19]: zx26 broke the block QUARTZ_BLOCK at the location -63, 15, -72.
+[22:15:19]: zx26 broke the block STONE_BRICK_STAIRS at the location -64, 15, -72.
+[22:15:19]: zx26 broke the block STONE_BRICKS at the location -64, 15, -73.
+[22:15:20]: zx26 broke the block STONE_BRICKS at the location -63, 15, -73.
+[22:15:20]: zx26 broke the block STONE_BRICKS at the location -63, 15, -74.
+[22:15:20]: zx26 broke the block QUARTZ_BLOCK at the location -62, 15, -74.
+[22:15:20]: zx26 broke the block STONE_BRICKS at the location -63, 15, -75.
+[22:15:20]: zx26 broke the block STONE_BRICKS at the location -62, 15, -75.
+[22:15:20]: zx26 broke the block STONE_BRICKS at the location -62, 15, -76.
+[22:15:21]: zx26 broke the block STONE_BRICKS at the location -62, 15, -77.
+[22:15:21]: zx26 broke the block STONE_BRICKS at the location -61, 15, -77.
+[22:15:21]: zx26 broke the block STONE_BRICKS at the location -61, 15, -78.
+[22:15:21]: zx26 broke the block QUARTZ_BLOCK at the location -60, 15, -77.
+[22:15:21]: zx26 broke the block STONE_BRICKS at the location -60, 15, -78.
+[22:15:21]: zx26 broke the block STONE_BRICKS at the location -60, 15, -79.
+[22:15:22]: zx26 broke the block STONE_BRICKS at the location -59, 15, -79.
+[22:15:22]: zx26 broke the block STONE_BRICKS at the location -58, 15, -79.
+[22:15:22]: zx26 broke the block STONE_BRICKS at the location -58, 15, -80.
+[22:15:22]: zx26 broke the block STONE_BRICKS at the location -57, 15, -80.
+[22:15:22]: zx26 broke the block STONE_BRICKS at the location -56, 15, -81.
+[22:15:22]: zx26 broke the block STONE_BRICK_STAIRS at the location -55, 15, -81.
+[22:15:23]: zx26 broke the block STONE_BRICK_STAIRS at the location -54, 15, -81.
+[22:15:23]: zx26 broke the block STONE_BRICK_STAIRS at the location -53, 15, -81.
+[22:15:23]: zx26 broke the block QUARTZ_BLOCK at the location -53, 15, -80.
+[22:15:23]: zx26 broke the block STONE_BRICK_STAIRS at the location -52, 15, -81.
+[22:15:23]: zx26 broke the block STONE_BRICK_STAIRS at the location -51, 15, -81.
+[22:15:24]: zx26 broke the block STONE_BRICKS at the location -50, 15, -81.
+[22:15:24]: zx26 broke the block STONE_BRICKS at the location -50, 15, -80.
+[22:15:24]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -79.
+[22:15:24]: zx26 broke the block STONE_BRICKS at the location -49, 15, -80.
+[22:15:25]: zx26 broke the block STONE_BRICKS at the location -48, 15, -80.
+[22:15:25]: zx26 broke the block STONE_BRICKS at the location -47, 15, -79.
+[22:15:25]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -78.
+[22:15:25]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -78.
+[22:15:25]: zx26 broke the block STONE_BRICKS at the location -46, 15, -79.
+[22:15:25]: zx26 broke the block STONE_BRICKS at the location -46, 15, -78.
+[22:15:26]: zx26 broke the block STONE_BRICKS at the location -45, 15, -78.
+[22:15:26]: zx26 broke the block STONE_BRICKS at the location -44, 15, -77.
+[22:15:26]: zx26 broke the block STONE_BRICKS at the location -44, 15, -76.
+[22:15:26]: zx26 broke the block STONE_BRICKS at the location -44, 15, -75.
+[22:15:26]: zx26 broke the block STONE_BRICKS at the location -43, 15, -75.
+[22:15:26]: zx26 broke the block STONE_BRICKS at the location -43, 15, -74.
+[22:15:27]: zx26 broke the block STONE_BRICKS at the location -42, 15, -73.
+[22:15:27]: zx26 broke the block STONE_BRICKS at the location -43, 15, -73.
+[22:15:27]: zx26 broke the block STONE_BRICK_STAIRS at the location -42, 15, -72.
+[22:15:27]: zx26 broke the block STONE_BRICK_STAIRS at the location -42, 15, -71.
+[22:15:27]: zx26 broke the block STONE_BRICK_STAIRS at the location -42, 15, -70.
+[22:15:27]: zx26 broke the block STONE_BRICK_STAIRS at the location -42, 15, -69.
+[22:15:28]: zx26 broke the block STONE_BRICK_STAIRS at the location -42, 15, -68.
+[22:15:28]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -69.
+[22:15:29]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -67.
+[22:15:29]: zx26 broke the block QUARTZ_BLOCK at the location -43, 15, -69.
+[22:15:29]: zx26 broke the block QUARTZ_BLOCK at the location -43, 15, -70.
+[22:15:29]: zx26 broke the block QUARTZ_BLOCK at the location -43, 15, -71.
+[22:15:30]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -71.
+[22:15:30]: zx26 broke the block QUARTZ_BLOCK at the location -43, 15, -72.
+[22:15:30]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -72.
+[22:15:35]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -73.
+[22:15:35]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -73.
+[22:15:35]: zx26 broke the block STONE_BRICKS at the location -46, 15, -73.
+[22:15:35]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -73.
+[22:15:36]: zx26 broke the block QUARTZ_STAIRS at the location -46, 16, -74.
+[22:15:36]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -74.
+[22:15:36]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -75.
+[22:15:36]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -74.
+[22:15:37]: zx26 broke the block QUARTZ_STAIRS at the location -46, 16, -76.
+[22:15:37]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -77.
+[22:15:37]: zx26 broke the block STONE_BRICKS at the location -45, 15, -77.
+[22:15:37]: zx26 broke the block QUARTZ_STAIRS at the location -46, 16, -75.
+[22:15:38]: zx26 broke the block QUARTZ_BLOCK at the location -45, 15, -76.
+[22:15:38]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -76.
+[22:15:38]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -77.
+[22:15:39]: zx26 broke the block STONE_BRICKS at the location -47, 15, -76.
+[22:15:39]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -76.
+[22:15:39]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -47, 16, -75.
+[22:15:39]: zx26 broke the block ENDER_CHEST at the location -48, 17, -75.
+[22:15:39]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -48, 16, -76.
+[22:15:40]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -48, 16, -75.
+[22:15:40]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -75.
+[22:15:40]: zx26 broke the block STONE_BRICKS at the location -47, 15, -75.
+[22:15:40]: zx26 broke the block STONE_BRICKS at the location -48, 15, -76.
+[22:15:41]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -78.
+[22:15:41]: zx26 broke the block QUARTZ_BLOCK at the location -50, 15, -78.
+[22:15:41]: zx26 broke the block STONE_BRICKS at the location -51, 15, -78.
+[22:15:41]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -79.
+[22:15:42]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -79.
+[22:15:42]: MoMeooW ran the command /minecraft:tp @s 1 1 1.
+[22:15:42]: MoMeooW teleported to 1, 1, 1.
+[22:15:42]: zx26 broke the block STONE_BRICKS at the location -50, 13, -82.
+[22:15:42]: zx26 broke the block STONE_BRICKS at the location -49, 13, -82.
+[22:15:43]: zx26 broke the block STONE_BRICKS at the location -46, 13, -80.
+[22:15:43]: zx26 broke the block STONE_BRICKS at the location -48, 15, -79.
+[22:15:44]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -77.
+[22:15:44]: zx26 broke the block STONE_BRICKS at the location -49, 15, -77.
+[22:15:44]: zx26 broke the block STONE_BRICKS at the location -50, 15, -77.
+[22:15:45]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -80.
+[22:15:45]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -80.
+[22:15:45]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -79.
+[22:15:48]: zx26 broke the block QUARTZ_BLOCK at the location -57, 15, -79.
+[22:15:48]: zx26 broke the block STONE_BRICKS at the location -56, 15, -80.
+[22:15:48]: zx26 broke the block QUARTZ_BLOCK at the location -55, 15, -80.
+[22:15:49]: zx26 broke the block QUARTZ_BLOCK at the location -54, 15, -80.
+[22:15:49]: zx26 broke the block STONE_BRICKS at the location -52, 15, -78.
+[22:15:49]: MoMeooW ran the command /worldeditsui.
+[22:15:50]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -77.
+[22:15:50]: zx26 broke the block STONE_BRICKS at the location -49, 15, -76.
+[22:15:51]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -75.
+[22:15:51]: zx26 broke the block STONE_BRICKS at the location -46, 15, -74.
+[22:15:51]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -73.
+[22:15:51]: zx26 broke the block STONE_BRICKS at the location -45, 15, -72.
+[22:15:51]: zx26 broke the block STONE_BRICKS at the location -45, 15, -71.
+[22:15:51]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -71.
+[22:15:52]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -71.
+[22:15:52]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -70.
+[22:15:52]: zx26 broke the block STONE_BRICKS at the location -48, 15, -70.
+[22:15:52]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -70.
+[22:15:52]: zx26 broke the block STONE_BRICKS at the location -45, 15, -70.
+[22:15:53]: zx26 broke the block QUARTZ_BLOCK at the location -44, 15, -70.
+[22:15:53]: zx26 broke the block STONE_BRICKS at the location -45, 15, -69.
+[22:15:53]: zx26 broke the block QUARTZ_BLOCK at the location -46, 15, -69.
+[22:15:54]: zx26 broke the block STONE_BRICKS at the location -50, 15, -67.
+[22:15:54]: zx26 broke the block QUARTZ_BLOCK at the location -51, 15, -67.
+[22:15:54]: zx26 broke the block STONE_BRICKS at the location -52, 15, -65.
+[22:15:55]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -64.
+[22:15:55]: zx26 broke the block QUARTZ_BLOCK at the location -52, 15, -63.
+[22:15:55]: zx26 broke the block QUARTZ_BLOCK at the location -53, 15, -64.
+[22:15:55]: zx26 broke the block QUARTZ_BLOCK at the location -53, 15, -66.
+[22:15:56]: zx26 broke the block QUARTZ_STAIRS at the location -50, 16, -66.
+[22:15:56]: MoMeooW ran the command /worldeditsui toggle.
+[22:15:57]: zx26 broke the block STONE_BRICKS at the location -48, 15, -71.
+[22:15:57]: zx26 broke the block QUARTZ_BLOCK at the location -47, 15, -72.
+[22:15:57]: zx26 broke the block STONE_BRICKS at the location -46, 15, -72.
+[22:15:57]: zx26 broke the block STONE_BRICKS at the location -47, 15, -74.
+[22:15:58]: zx26 broke the block QUARTZ_BLOCK at the location -48, 15, -74.
+[22:15:58]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -74.
+[22:15:58]: zx26 broke the block QUARTZ_STAIRS at the location -47, 16, -73.
+[22:15:58]: zx26 broke the block CHISELED_QUARTZ_BLOCK at the location -48, 16, -74.
+[22:15:59]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -74.
+[22:15:59]: zx26 broke the block STONE_BRICKS at the location -50, 15, -74.
+[22:15:59]: zx26 broke the block QUARTZ_BLOCK at the location -49, 15, -75.
+[22:15:59]: zx26 broke the block QUARTZ_STAIRS at the location -49, 16, -76.
+[22:16:11]: MoMeooW said -> wtf r u doin <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:16:12]: MoMeooW said -> ._> <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:16:42]: MoMeooW ran the command //set 0.
+[22:16:52]: MoMeooW dropped the item GLASS.
+[22:16:59]: MoMeooW ran the command /invsee zx26.
+[22:17:12]: MoMeooW ran the command /plt.
+[22:17:16]: MoMeooW ran the command /pl.
+[22:17:32]: MoMeooW said -> u see animated scoreboard? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:17:43]: zx26 said -> ye <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:17:48]: MoMeooW said -> nice <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:17:50]: zx26 said -> wtf where is my lobby <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:17:51]: zx26 said -> WTF <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:17:55]: MoMeooW said -> your? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:18:00]: zx26 said -> the one i copied <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:18:05]: MoMeooW said -> it is mine <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:18:07]: MoMeooW said -> u took it <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:18:10]: zx26 said -> ..... <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:18:15]: MoMeooW said -> with out my permoissions <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:18:42]: MoMeooW ran the command //cyl grass 30.
+[22:18:44]: MoMeooW picked up the item WHEAT_SEEDS.
+[22:18:56]: MoMeooW ran the command /undo.
+[22:19:01]: MoMeooW ran the command //cyl grass_block 30.
+[22:19:05]: MoMeooW said -> build here <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:19:07]: MoMeooW said -> buster <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:19:35]: zx26 said -> i want to fuck you <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:19:37]: zx26 said -> really hard <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:19:40]: MoMeooW said -> build here <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:19:45]: MoMeooW said -> i built my one from scratch <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:19:47]: MoMeooW said -> u too <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:19:53]: The TPS is 20.
+[22:19:53]: The current RAM usage is 2821MB / 3800MB (74.24%).
+[22:19:53]: The current player count is 2.
+[22:20:19]: MoMeooW said -> hmm <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:20:24]: MoMeooW said -> do u see my particle? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:20:35]: MoMeooW ran the command /pp.
+[22:20:51]: MoMeooW ran the command /pp.
+[22:21:00]: MoMeooW ran the command /ppo.
+[22:21:10]: MoMeooW ran the command /msg zx26 test.
+[22:21:18]: zx26 said -> fk <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:21:26]: MoMeooW said -> ? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:21:49]: zx26 quit at the location -56, 46, -82. Their IP was 156.194.248.134.
+[22:22:51]: MoMeooW ran the command /pl.
+[22:23:11]: MoMeooW ran the command /rename &4fuck &6 you.
+[22:23:28]: MoMeooW ran the command /joincore.
+[22:23:36]: MoMeooW ran the command /joincore counter.
+[22:23:59]: MoMeooW ran the command /joincore gui.
+[22:24:07]: MoMeooW ran the command /pl.
+[22:24:14]: MoMeooW said -> @MoMeooW <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:24:18]: MoMeooW said -> @ MoMeooW <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:24:44]: MoMeooW ran the command /imagemap.
+[22:24:48]: zx26 joined from the IP 156.194.248.134.
+[22:24:49]: zx26 teleported to 0, 16, -1.
+[22:24:54]: The TPS is 19.97.
+[22:24:54]: The current RAM usage is 2907MB / 3800MB (76.5%).
+[22:24:54]: The current player count is 2.
+[22:24:56]: zx26 said -> you restarted? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:24:58]: MoMeooW said -> what ? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:24:59]: zx26 teleported to 0, 1, -1.
+[22:25:04]: MoMeooW said -> nah <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:25:06]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:25:09]: MoMeooW ran the command /imagemap place.
+[22:25:11]: zx26 said -> i just got kicked or something <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:25:23]: MoMeooW said -> lmao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:25:24]: MoMeooW ran the command /imagemap place Cat.png false.
+[22:25:47]: zx26 said -> downloading the game i was playing ! <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:25:50]: zx26 said -> i wish it works <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:25:59]: zx26 said -> wtf <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:26:05]: zx26 said -> WTF <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:26:07]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:26:08]: zx26 said -> lol <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:26:17]: MoMeooW said -> lol quality is good <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:26:29]: zx26 said -> tihs is good? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:26:36]: zx26 said -> are you fking kidding me? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:26:37]: MoMeooW said -> for minecraft <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:26:41]: zx26 said -> oh right xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:26:48]: MoMeooW said -> from above <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:26:56]: MoMeooW said -> come look <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:26:59]: MoMeooW said -> up <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:27:06]: MoMeooW ran the command /tp zx26 MoMeooW.
+[22:27:07]: zx26 teleported to -61, 17, -97.
+[22:27:19]: zx26 said -> cant see it like that <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:27:20]: MoMeooW dropped the item STRIPPED_SPRUCE_LOG.
+[22:27:27]: MoMeooW said -> what? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:27:28]: MoMeooW said -> lol? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:27:40]: zx26 said -> but like that <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:27:41]: MoMeooW ran the command /pp.
+[22:27:52]: zx26 said -> ohj <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:27:57]: zx26 said -> you are 1.14+? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:28:01]: MoMeooW said -> yup <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:28:03]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:28:05]: zx26 said -> im 1.12 its llike a wall xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:28:11]: MoMeooW said -> oooh <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:28:15]: MoMeooW said -> it is on ground for me <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:28:18]: MoMeooW said -> lol wait <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:28:23]: MoMeooW placed the block GRASS_BLOCK at the location -65, 11, -84.
+[22:28:23]: MoMeooW placed the block GRASS_BLOCK at the location -65, 11, -85.
+[22:28:24]: MoMeooW placed the block GRASS_BLOCK at the location -65, 11, -86.
+[22:28:25]: MoMeooW placed the block GRASS_BLOCK at the location -65, 11, -87.
+[22:28:25]: MoMeooW placed the block GRASS_BLOCK at the location -65, 11, -88.
+[22:28:25]: MoMeooW placed the block GRASS_BLOCK at the location -65, 11, -89.
+[22:28:26]: MoMeooW placed the block GRASS_BLOCK at the location -65, 12, -89.
+[22:28:26]: MoMeooW placed the block GRASS_BLOCK at the location -65, 13, -89.
+[22:28:27]: MoMeooW placed the block GRASS_BLOCK at the location -65, 12, -88.
+[22:28:27]: MoMeooW placed the block GRASS_BLOCK at the location -65, 13, -88.
+[22:28:28]: MoMeooW placed the block GRASS_BLOCK at the location -65, 12, -87.
+[22:28:28]: MoMeooW placed the block GRASS_BLOCK at the location -65, 13, -87.
+[22:28:30]: MoMeooW placed the block GRASS_BLOCK at the location -65, 12, -86.
+[22:28:30]: MoMeooW placed the block GRASS_BLOCK at the location -65, 13, -86.
+[22:28:31]: MoMeooW placed the block GRASS_BLOCK at the location -65, 12, -84.
+[22:28:31]: MoMeooW placed the block GRASS_BLOCK at the location -65, 13, -84.
+[22:28:32]: MoMeooW placed the block GRASS_BLOCK at the location -65, 12, -85.
+[22:28:33]: MoMeooW placed the block GRASS_BLOCK at the location -65, 13, -85.
+[22:28:38]: MoMeooW ran the command /imagemap place Cat.png.
+[22:28:51]: MoMeooW said -> now u see? <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:28:56]: zx26 said -> ye <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:29:05]: MoMeooW said -> nice <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:29:08]: zx26 said -> you taking pictures with 3 doggies xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:29:14]: MoMeooW said -> lol yup <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:29:17]: zx26 said -> selfie xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:29:22]: MoMeooW said -> ye lmao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:29:41]: MoMeooW broke the block DIRT at the location -65, 12, -86.
+[22:29:42]: MoMeooW broke the block GRASS_BLOCK at the location -65, 12, -87.
+[22:29:43]: MoMeooW broke the block DIRT at the location -65, 12, -85.
+[22:29:43]: MoMeooW broke the block GRASS_BLOCK at the location -65, 12, -84.
+[22:29:45]: MoMeooW broke the block GRASS_BLOCK at the location -65, 11, -84.
+[22:29:45]: MoMeooW broke the block DIRT at the location -65, 11, -85.
+[22:29:45]: MoMeooW broke the block DIRT at the location -65, 11, -86.
+[22:29:46]: MoMeooW broke the block GRASS_BLOCK at the location -65, 11, -87.
+[22:29:46]: MoMeooW broke the block GRASS_BLOCK at the location -65, 13, -84.
+[22:29:46]: MoMeooW broke the block GRASS_BLOCK at the location -65, 13, -85.
+[22:29:46]: MoMeooW broke the block GRASS_BLOCK at the location -65, 13, -86.
+[22:29:46]: MoMeooW broke the block GRASS_BLOCK at the location -65, 13, -87.
+[22:29:47]: MoMeooW broke the block GRASS_BLOCK at the location -65, 13, -88.
+[22:29:47]: MoMeooW broke the block GRASS_BLOCK at the location -65, 12, -88.
+[22:29:47]: MoMeooW broke the block GRASS_BLOCK at the location -65, 13, -89.
+[22:29:47]: MoMeooW picked up the item FILLED_MAP.
+[22:29:47]: MoMeooW broke the block DIRT at the location -65, 12, -89.
+[22:29:48]: MoMeooW picked up the item ITEM_FRAME.
+[22:29:48]: MoMeooW broke the block DIRT at the location -65, 11, -88.
+[22:29:49]: MoMeooW broke the block DIRT at the location -65, 11, -89.
+[22:29:49]: MoMeooW picked up the item FILLED_MAP.
+[22:29:50]: zx26 said -> idk why when i talk to you i feel like you are a cat xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:29:54]: The TPS is 20.
+[22:29:54]: The current RAM usage is 3400MB / 3800MB (89.47%).
+[22:29:54]: The current player count is 2.
+[22:29:55]: MoMeooW picked up the item FILLED_MAP.
+[22:29:55]: MoMeooW picked up the item FILLED_MAP.
+[22:29:55]: MoMeooW picked up the item FILLED_MAP.
+[22:29:55]: MoMeooW picked up the item ITEM_FRAME.
+[22:29:55]: MoMeooW picked up the item FILLED_MAP.
+[22:29:55]: MoMeooW picked up the item FILLED_MAP.
+[22:29:56]: MoMeooW picked up the item FILLED_MAP.
+[22:29:56]: MoMeooW picked up the item FILLED_MAP.
+[22:29:57]: zx26 said -> show me your face later <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:29:58]: MoMeooW said -> wtf lmao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:30:00]: MoMeooW picked up the item ITEM_FRAME.
+[22:30:00]: MoMeooW picked up the item FILLED_MAP.
+[22:30:01]: MoMeooW picked up the item FILLED_MAP.
+[22:30:01]: MoMeooW picked up the item FILLED_MAP.
+[22:30:01]: MoMeooW picked up the item FILLED_MAP.
+[22:30:02]: MoMeooW picked up the item FILLED_MAP.
+[22:30:02]: MoMeooW picked up the item FILLED_MAP.
+[22:30:18]: MoMeooW said -> nah u will die if u said my face <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:30:21]: MoMeooW said -> it is sooo ugly <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:30:26]: MoMeooW said -> lmfao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:30:31]: MoMeooW picked up the item STRIPPED_SPRUCE_LOG.
+[22:30:36]: zx26 said -> didnt you gave me a photo of yours before? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:30:38]: MoMeooW broke the block GRASS_BLOCK at the location -60, 10, -99.
+[22:30:40]: zx26 said -> with your mother i guess <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:30:54]: MoMeooW said -> uh this was my grandma <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:30:55]: zx26 said -> and you said you dont have a photo alone xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:30:59]: MoMeooW said -> yup i was ugly in it <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:31:03]: MoMeooW picked up the item FILLED_MAP.
+[22:31:05]: MoMeooW placed the block GRASS_BLOCK at the location -60, 10, -99.
+[22:31:11]: zx26 said -> bro, it's the made of god <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:31:12]: MoMeooW said -> i am ugly at all the time <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:31:13]: MoMeooW broke the block GRASS_BLOCK at the location -62, 10, -97.
+[22:31:15]: MoMeooW placed the block GRASS_BLOCK at the location -62, 10, -97.
+[22:31:17]: zx26 said -> so i don't beleive in ugliness <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:31:19]: MoMeooW said -> i know ,_, <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:31:31]: MoMeooW said -> ok <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:31:38]: MoMeooW ran the command /pl.
+[22:31:44]: MoMeooW ran the command /imagemap.
+[22:31:47]: zx26 said -> also <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:31:50]: zx26 said -> how to morf <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:32:04]: MoMeooW said -> ./dis <mob> <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:06]: zx26 ran the command /disc.
+[22:32:08]: MoMeooW said -> just write ./dis <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:10]: zx26 ran the command /dis zombie.
+[22:32:12]: MoMeooW said -> u will see list <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:17]: zx26 ran the command /dis enderman.
+[22:32:17]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:30]: MoMeooW said -> he will make u walk <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:32]: MoMeooW said -> soo <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:33]: zx26 said -> it moving itself <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:32:34]: zx26 emptied a WATER_BUCKET at the location -69, 10, -91.
+[22:32:35]: zx26 emptied a WATER_BUCKET at the location -69, 10, -91.
+[22:32:38]: zx26 said -> wtf? <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:32:39]: MoMeooW ran the command /disvs.
+[22:32:41]: MoMeooW ran the command /disvs.
+[22:32:42]: zx26 said -> SUPER ENEDERMAN <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:32:46]: MoMeooW said -> ./disvs <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:48]: zx26 said -> SUPER ENDERMANN <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:32:51]: MoMeooW said -> lmfao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:32:52]: zx26 said -> look <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:32:58]: MoMeooW said -> ey saw it <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:33:02]: MoMeooW placed the block GRASS_BLOCK at the location -69, 11, -91.
+[22:33:04]: MoMeooW broke the block GRASS_BLOCK at the location -69, 11, -91.
+[22:33:05]: zx26 broke the block AIR at the location -69, 11, -91.
+[22:33:14]: zx26 ran the command /dis witherskeleton.
+[22:33:28]: MoMeooW said -> ./disvs <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:33:34]: zx26 ran the command /disvs.
+[22:33:43]: zx26 ran the command /dis witherskeleton.
+[22:33:44]: MoMeooW said -> i see u but u see ur skin normal <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:33:53]: zx26 ran the command /dis witherskeleton.
+[22:33:58]: zx26 said -> ohhhh <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:34:05]: MoMeooW said -> ye <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:34:05]: zx26 ran the command /dis witherboss.
+[22:34:13]: zx26 ran the command /dis Wither_Skull.
+[22:34:15]: zx26 ran the command /dis.
+[22:34:17]: MoMeooW said -> lmao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:34:19]: zx26 ran the command /disvs.
+[22:34:22]: MoMeooW ran the command /dis Armor_Stand.
+[22:34:31]: zx26 said -> xD witherhead <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:34:36]: MoMeooW said -> ye lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:34:44]: MoMeooW ran the command /dis Experience_Orb.
+[22:34:46]: MoMeooW said -> see me <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:34:49]: MoMeooW ran the command /disvs.
+[22:34:52]: zx26 said -> get armorstand again <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:34:53]: The TPS is 20.
+[22:34:53]: The current RAM usage is 3079MB / 3800MB (81.03%).
+[22:34:54]: The current player count is 2.
+[22:34:58]: zx26 said -> i want to be in the head slot <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:34:59]: MoMeooW said -> i am exp orb <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:35:00]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:35:09]: MoMeooW ran the command /dis Armor_Stand.
+[22:35:15]: zx26 said -> xDDD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:35:15]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:35:19]: zx26 said -> xDDDD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:35:20]: MoMeooW said -> lmfao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:35:22]: MoMeooW said -> team <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:35:30]: zx26 ran the command /dis police.
+[22:35:31]: MoMeooW ran the command /dis.
+[22:35:36]: zx26 said -> ./dis police_officer <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:35:36]: MoMeooW ran the command /dis tnt.
+[22:35:46]: zx26 ran the command /dis Shulkerr.
+[22:35:47]: MoMeooW ran the command /dis Thrown_Exp_Bottle.
+[22:35:49]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:35:54]: zx26 ran the command /dis Shulker.
+[22:35:54]: zx26 teleported to -54, 11, -94.
+[22:35:55]: zx26 teleported to -54, 11, -94.
+[22:35:56]: zx26 teleported to -54, 11, -94.
+[22:35:56]: zx26 teleported to -54, 11, -94.
+[22:36:00]: zx26 ran the command /dis arrow.
+[22:36:03]: zx26 said -> xD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:36:10]: MoMeooW ran the command /dis Ender_Dragon.
+[22:36:21]: MoMeooW ran the command /disvs.
+[22:36:22]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:36:31]: MoMeooW said -> the dragon itself is here <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:36:31]: zx26 ran the command /dis Ender_Signal.
+[22:36:36]: zx26 ran the command /dis Ender_Crystal.
+[22:36:38]: MoMeooW ran the command /disvs.
+[22:36:41]: zx26 said -> xDD <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:36:42]: MoMeooW said -> of <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:36:43]: MoMeooW said -> lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:36:54]: zx26 ran the command /dis Ender_Pearl.
+[22:37:01]: MoMeooW said -> run doglas run <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:37:07]: MoMeooW ran the command /disvs.
+[22:37:11]: zx26 ran the command /dis Area_Effect_Cloud.
+[22:37:23]: zx26 ran the command /dis Bee.
+[22:37:23]: MoMeooW said -> oof lol <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:37:27]: MoMeooW said -> bee <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:37:27]: zx26 ran the command /dis Area_Effect_Cloud.
+[22:37:35]: MoMeooW ran the command /dis.
+[22:37:36]: zx26 ran the command /dis boat.
+[22:37:45]: zx26 said -> im the haunted boat <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:37:48]: MoMeooW ran the command /dis giant.
+[22:37:52]: MoMeooW said -> ye <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:37:54]: MoMeooW ran the command /disvs.
+[22:38:19]: zx26 ran the command /dis Cod.
+[22:38:32]: zx26 ran the command /dis Dragon_Fireball.
+[22:38:37]: zx26 said -> DIEEE <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:38:47]: MoMeooW ran the command /dis Primed_Tnt.
+[22:38:52]: MoMeooW said -> lmao <chat=1618972e-a455-40ce-95e6-6ac38abf36b3>.
+[22:39:01]: zx26 ran the command /dis Dropped_Item.
+[22:39:30]: zx26 said -> lol <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:39:40]: MoMeooW ran the command /dis Sheep baby.
+[22:40:12]: MoMeooW quit at the location -40, 11, -70. Their IP was 197.41.37.66.
+[22:40:35]: zx26 quit at the location -36, 11, -71. Their IP was 156.194.248.134.
+[22:41:04]: The TPS is 9.24.
+[22:41:05]: The current RAM usage is 2694MB / 3800MB (70.89%).
+[22:41:06]: The current player count is 0.
+[22:42:14]: zx26 joined from the IP 156.194.248.134.
+[22:42:17]: zx26 teleported to 0, 16, -1.
+[22:42:24]: zx26 said -> it said data base error <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:42:25]: zx26 said -> lmfao <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:42:29]: zx26 said -> ss <chat=19d30783-eb36-40eb-a9a2-a5d505a24731>.
+[22:43:00]: zx26 ran the command /rewards.
+[22:43:05]: zx26 emptied a WATER_BUCKET at the location -72, 10, -79.
+[22:43:07]: zx26 placed the block GRASS_BLOCK at the location -72, 11, -79.
+[22:43:09]: zx26 ran the command /game.
+[22:43:15]: zx26 placed the block GRASS_BLOCK at the location -72, 11, -79.
+[22:43:18]: zx26 ran the command /build.
+[22:43:19]: zx26 placed the block GRASS_BLOCK at the location -71, 11, -79.
+[22:43:19]: zx26 placed the block GRASS_BLOCK at the location -72, 11, -79.
+[22:43:20]: zx26 broke the block GRASS_BLOCK at the location -72, 11, -79.
+[22:43:20]: zx26 broke the block GRASS_BLOCK at the location -71, 11, -79.
+[22:43:22]: zx26 ran the command /game.
+[22:44:00]: zx26 ran the command /game.
+[22:45:53]: zx26 ran the command /slmenuopen#menu.
+[22:46:17]: zx26 quit at the location -79, 13, -78. Their IP was 156.194.248.134.
+[22:54:13]: The TPS is 0.
+[22:54:13]: The current RAM usage is 2669MB / 3800MB (70.24%).
+[22:54:13]: The current player count is 0.
+[22:59:12]: The TPS is 20.
+[22:59:12]: The current RAM usage is 3116MB / 3800MB (82%).
+[22:59:12]: The current player count is 0.
+[23:04:12]: The TPS is 20.
+[23:04:12]: The current RAM usage is 3202MB / 3800MB (84.26%).
+[23:04:12]: The current player count is 0.
+[23:09:12]: The TPS is 20.
+[23:09:12]: The current RAM usage is 3288MB / 3800MB (86.53%).
+[23:09:12]: The current player count is 0.
+[23:14:12]: The TPS is 20.
+[23:14:12]: The current RAM usage is 3367MB / 3800MB (88.61%).
+[23:14:12]: The current player count is 0.
+[23:19:12]: The TPS is 20.
+[23:19:12]: The current RAM usage is 3438MB / 3800MB (90.47%).
+[23:19:12]: The current player count is 0.
+[23:24:12]: The TPS is 20.
+[23:24:12]: The current RAM usage is 2415MB / 3800MB (63.55%).
+[23:24:12]: The current player count is 0.

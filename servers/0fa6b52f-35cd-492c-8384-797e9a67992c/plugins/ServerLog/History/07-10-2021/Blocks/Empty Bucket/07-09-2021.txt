@@ -1,0 +1,3 @@
+[22:32:34]: zx26 emptied a WATER_BUCKET at the location -69, 10, -91.
+[22:32:35]: zx26 emptied a WATER_BUCKET at the location -69, 10, -91.
+[22:43:05]: zx26 emptied a WATER_BUCKET at the location -72, 10, -79.

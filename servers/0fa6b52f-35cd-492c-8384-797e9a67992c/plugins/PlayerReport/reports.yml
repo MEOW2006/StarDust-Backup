@@ -1,0 +1,53 @@
+reports:
+  '0':
+    Reporter: MoMeooW
+    Reported: zx26
+    Reason: he is a bitch
+    Item:
+      Material: PAPER
+      Name: '&a%reported%'
+      Lore:
+      - ''
+      - ' &3&l» &fStatus &3&l» %status%'
+      - ''
+      - ' &3&l» &fSubmitted by &3&l» &b%reporter%'
+      - ' &3&l» &fReported &3&l» &c%reported%'
+      - ''
+      - ' &3&l» &fReason &3&l» &b%reason%'
+      - ''
+      - '&7(Left-Click to teleport to %reported%)'
+      - '&7(Right-Click to remove this Report)'
+      - '&7(Middle-Click to update the report status)'
+      - '&7(Drop to see if a proof image is attached)'
+      Click-Events:
+        Player-Commands:
+        - teleport %player%
+        Send-Clicker-Message:
+        - '&8(&b!&8) &3&l» &fYou have teleported to &a%player%&f.'
+    Status: '&fNew'
+  '1':
+    Reporter: MoMeooW
+    Reported: zx26
+    Reason: fuck him
+    Item:
+      Material: PAPER
+      Name: '&a%reported%'
+      Lore:
+      - ''
+      - ' &3&l» &fStatus &3&l» %status%'
+      - ''
+      - ' &3&l» &fSubmitted by &3&l» &b%reporter%'
+      - ' &3&l» &fReported &3&l» &c%reported%'
+      - ''
+      - ' &3&l» &fReason &3&l» &b%reason%'
+      - ''
+      - '&7(Left-Click to teleport to %reported%)'
+      - '&7(Right-Click to remove this Report)'
+      - '&7(Middle-Click to update the report status)'
+      - '&7(Drop to see if a proof image is attached)'
+      Click-Events:
+        Player-Commands:
+        - teleport %player%
+        Send-Clicker-Message:
+        - '&8(&b!&8) &3&l» &fYou have teleported to &a%player%&f.'
+    Status: '&fNew'

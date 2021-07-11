@@ -1,0 +1,47 @@
+# <--- IMPORTANT --->
+# Don't forget to import your templates with ./dkbans template import
+# <--- IMPORTANT --->
+
+type: UNPUNISHMENT
+calculation: AMOUNT
+name: unban
+templates:
+  1:
+    name: falseban
+    display: False ban
+    permission: dkbans.unban.reason.falsban
+    aliases:
+      - false
+    hidden: false
+    historyType: NETWORK
+    category: Unbans
+    blacklisted: []
+    durations:
+      1:
+        ALL:
+          removeTime: -1
+          divider: 2
+    points:
+      removedPoints: 100
+      pointsDivider: 2
+  2:
+    name: acceptedrequest
+    display: Accepted Request
+    permission: dkbans.unban.reason.falsban
+    aliases:
+      - false
+    hidden: false
+    historyType: NETWORK
+    category: Unbans
+    blacklisted: []
+    durations:
+      1:
+        BAN:
+          removeTime: 0
+          divider: 2
+        MUTE:
+          removeTime: 0
+          divider: 3
+    points:
+      removedPoints: 100
+      pointsDivider: 2

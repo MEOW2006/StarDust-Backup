@@ -1,0 +1,45 @@
+# <--- IMPORTANT --->
+# Don't forget to import your templates with ./dkbans template import
+# <--- IMPORTANT --->
+
+type: REPORT
+calculation: AMOUNT
+name: report
+templates:
+  1:
+    name: Hacking
+    display: Hacking
+    permission: dkbans.report
+    watchPermission: dkbans.report.staff
+    aliases:
+      - hacking
+    hidden: false
+    category: Reports
+    targetPunishment: ban@Hacking
+  2:
+    name: Provocation
+    display: Provocation
+    permission: dkbans.report
+    watchPermission: dkbans.report.staff
+    aliases:
+      - hacking
+    hidden: false
+    category: Reports
+    targetPunishment: ban@Provocation
+  3:
+    name: Insult
+    display: Insult
+    permission: dkbans.report
+    watchPermission: dkbans.report.staff
+    aliases:
+      - chat
+    hidden: false
+    category: Reports
+    targetPunishment: ban@Insult
+  4:
+    name: Other
+    display: Other
+    permission: dkbans.report
+    watchPermission: dkbans.report.staff
+    hidden: false
+    category: Reports

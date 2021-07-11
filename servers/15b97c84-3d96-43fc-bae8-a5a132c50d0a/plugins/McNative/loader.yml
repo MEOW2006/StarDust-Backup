@@ -1,0 +1,7 @@
+endpoint: mirror.mcnative.org
+template: local
+profile: local
+localProfile:
+  mcnative:
+    qualifier: RELEASE
+    version: LATEST

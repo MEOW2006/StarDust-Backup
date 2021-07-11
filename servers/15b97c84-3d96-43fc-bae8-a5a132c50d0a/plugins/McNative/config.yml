@@ -1,0 +1,42 @@
+debug: false
+console: 
+  networkId: '00000-00000-00000'
+  secret: '00000-00000-00000'
+  mafEnabled: true
+player: 
+  displayName: 
+    format: '{design.color}{name}'
+  colors: 
+    colors: 
+      mcnative.player.color.administrator: '&4'
+      mcnative.player.color.moderator: '&c'
+      mcnative.player.color.premium: '&6'
+    default: '&7'
+  global: 
+    chat: 
+      enabled: false
+      format: '&8[{player.server}&8] &e{design.chat}{player.name}&8:&f {message}'
+    tablist: 
+      enabled: false
+      prefix: '{design.prefix}'
+      suffix: '{design.suffix}'
+      overview: 
+        enabled: false
+        header: '&4Header'
+        footer: '&8Footer'
+network: 
+  messaging: 
+    packetManipulation: 
+      upstream: true
+      downstream: false
+labymod: 
+  watermark: 
+    enabled: false
+  voicechat: 
+    enabled: true
+  banner: 
+    enabled: false
+    url: 'https://content.pretronic.net/products/mcnative/banner.png'
+  alert: 
+    enabled: false
+    gamemode: 'McNative powered server'

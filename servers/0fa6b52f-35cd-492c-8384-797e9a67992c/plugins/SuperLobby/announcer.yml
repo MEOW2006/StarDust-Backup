@@ -1,0 +1,57 @@
+
+message:
+  enable: false
+  interval: 400
+  list:
+    message1:
+    - '&6&l&m>-----------------------------------------<'
+    - '&6&l&m>-----------------------------------------<'
+    message2:
+    - '&6&l&m>-----------------------------------------<'
+    - '&6&l&m>-----------------------------------------<'
+    message3:
+    - '&6&l&m>-----------------------------------------<'
+    - '&6&l&m>-----------------------------------------<'
+    message4:
+    - '&6&l&m>-----------------------------------------<'
+    - '&6&l&m>-----------------------------------------<'
+titles:
+  enable: false
+  interval: 500
+  list:
+    titles1:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: ''
+      subtitle: ''
+    titles2:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: ''
+      subtitle: ''
+bossbar:
+  enable: false
+  interval: 200
+  list:
+    bossbar1:
+      color: RED
+      style: NOTCHED_20
+      seconds: 10
+      message: ''
+    bossbar2:
+      color: PURPLE
+      style: NOTCHED_20
+      seconds: 10
+      message: ''
+actionbar:
+  enable: false
+  interval: 300
+  list:
+    actionbar1:
+      stay: 50
+      message: ''
+    actionbar2:
+      stay: 50
+      message: ''

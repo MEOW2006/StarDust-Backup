@@ -1,0 +1,252 @@
+command: 
+  jumpTo: 
+    enabled: true
+    name: 'jumpto'
+    permission: 'dkbans.command.jumpto'
+    aliases: ['goto']
+  onlineTime: 
+    enabled: true
+    name: 'onlinetime'
+    permission: 'dkbans.command.onlinetime'
+    aliases: []
+  ping: 
+    enabled: true
+    name: 'ping'
+    permission: 'dkbans.command.ping'
+    aliases: []
+  playerInfo: 
+    enabled: true
+    name: 'playerinfo'
+    permission: 'dkbans.command.playerInfo'
+    aliases: ['pinfo']
+  playerSessions: 
+    enabled: true
+    name: 'playerSessions'
+    permission: 'dkbans.command.playerSessions'
+    aliases: ['playerSession','psession','psessions']
+  teamchat: 
+    enabled: true
+    name: 'teamchat'
+    permission: 'dkbans.teamchat.receive'
+    aliases: ['team','tc','sc','staffchat']
+  help: 
+    enabled: true
+    name: 'help'
+    permission: 'dkbans.command.help'
+    aliases: ['?']
+  filter: 
+    enabled: true
+    name: 'filter'
+    permission: 'dkbans.command.filter'
+    aliases: []
+  playerNotes: 
+    enabled: true
+    name: 'playerNotes'
+    permission: 'dkbans.command.playerNotes'
+    aliases: ['playerNote','pnotes','pnote']
+  punishNotify: 
+    enabled: true
+    name: 'punishNotify'
+    permission: 'dkbans.punish.notify'
+    aliases: ['banNotify','pn']
+  notify: 
+    enabled: true
+    name: 'notify'
+    permission: 'dkbans.command.notify'
+    aliases: []
+  chatlog: 
+    enabled: true
+    name: 'chatlog'
+    permission: 'dkbans.command.chatlog'
+    aliases: []
+  history: 
+    enabled: true
+    name: 'history'
+    permission: 'dkbans.command.history'
+    aliases: []
+  resetHistory: 
+    enabled: true
+    name: 'resethistory'
+    permission: 'dkbans.command.resethistory'
+    aliases: []
+  myHistoryPoints: 
+    enabled: true
+    name: 'myhistorypoints'
+    permission: 'dkbans.command.myhistorypoints'
+    aliases: []
+  joinme: 
+    enabled: true
+    name: 'joinme'
+    aliases: []
+  ipInfo: 
+    enabled: true
+    name: 'ipInfo'
+    permission: 'dkbans.command.ipInfo'
+    aliases: []
+  ipBlock: 
+    enabled: true
+    name: 'ipBlock'
+    permission: 'dkbans.command.ipBlock'
+    aliases: []
+  ipUnblock: 
+    enabled: true
+    name: 'ipUnblock'
+    permission: 'dkbans.command.ipUnblock'
+    aliases: []
+  chatClear: 
+    enabled: true
+    name: 'chatClear'
+    permission: 'dkbans.command.chatclear'
+    aliases: ['cc','ccheat']
+  alert: 
+    enabled: true
+    name: 'alert'
+    permission: 'dkbans.command.alert'
+    aliases: []
+  broadcast: 
+    enabled: true
+    name: 'broadcast'
+    permission: 'dkbans.command.broadcast'
+    aliases: ['bc']
+    group: 
+      enabled: true
+      name: 'broadcastgroup'
+      permission: 'dkbans.command.broadcast.group'
+      aliases: ['bcg']
+  punish: 
+    direct: 
+      - punishmentType: 'BAN'
+        historyType: 'NETWORK'
+        commandType: 'COMMAND_PERMANENTLY'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'permanentban'
+        permission: 'dkbans.command.punish.ban.permanently'
+        aliases: ['permaban','pban']
+      - punishmentType: 'BAN'
+        historyType: 'NETWORK'
+        commandType: 'COMMAND_TEMPORARY'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'temporaryban'
+        permission: 'dkbans.command.punish.ban.temporary'
+        aliases: ['tempban','tban']
+      - punishmentType: 'BAN'
+        commandType: 'COMMAND_REVOKE'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'unban'
+        permission: 'dkbans.command.punish.ban.unban'
+        aliases: []
+      - punishmentType: 'BAN'
+        commandType: 'COMMAND_LIST'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'banlist'
+        permission: 'dkbans.command.punish.ban.list'
+        aliases: ['blist','bans']
+      - punishmentType: 'MUTE'
+        historyType: 'NETWORK'
+        commandType: 'COMMAND_PERMANENTLY'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'permanentmute'
+        permission: 'dkbans.command.punish.mute.permanently'
+        aliases: ['permamute','pmute']
+      - punishmentType: 'MUTE'
+        historyType: 'NETWORK'
+        commandType: 'COMMAND_TEMPORARY'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'temporarymute'
+        permission: 'dkbans.command.punish.mute.temporary'
+        aliases: ['tempmute','tmute']
+      - punishmentType: 'MUTE'
+        commandType: 'COMMAND_REVOKE'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'unmute'
+        permission: 'dkbans.command.punish.mute.unmute'
+        aliases: []
+      - punishmentType: 'MUTE'
+        commandType: 'COMMAND_LIST'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'mutelist'
+        permission: 'dkbans.command.punish.mute.list'
+        aliases: ['mlist','mutes']
+      - punishmentType: 'KICK'
+        historyType: 'NETWORK'
+        commandType: 'COMMAND_ONE_TIME'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'kick'
+        permission: 'dkbans.command.punish.kick'
+        aliases: []
+      - punishmentType: 'WARN'
+        historyType: 'NETWORK'
+        commandType: 'COMMAND_ONE_TIME'
+        scope: 'GLOBAL:GLOBAL'
+        enabled: true
+        name: 'warn'
+        permission: 'dkbans.command.punish.warn'
+        aliases: []
+    template: 
+      ban: 
+        enabled: true
+        name: 'ban'
+        permission: 'dkbans.ban'
+        aliases: ['mute']
+  report: 
+    enabled: true
+    name: 'report'
+    permission: 'dkbans.command.report'
+    aliases: []
+    template: 
+      name: 'report'
+    mode: 'TEMPLATE'
+  punishInfo: 
+    enabled: true
+    name: 'punishInfo'
+    permission: 'dkbans.command.punishInfo'
+    aliases: ['baninfo','muteinfo','binfo','minfo']
+  punishEdit: 
+    enabled: true
+    name: 'punishedit'
+    permission: 'dkbans.command.punishEdit'
+    aliases: ['banedit','muteedit']
+  punishNote: 
+    enabled: true
+    name: 'punishnote'
+    permission: 'dkbans.command.punishNote'
+    aliases: 
+      - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+      - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+      - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+      - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+      - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+permission: 
+  admin: 'dkbans.admin'
+  bypass: 'dkbans.bypass'
+  bypassIgnore: 'dkbans.bypass.ignore'
+  chat: 
+    bypass: 'dkbans.chat.bypass'
+    bypassCommandBlock: 'dkbans.chat.bypass.commandBlock'
+    bypassTabComplete: 'dkbans.chat.bypass.tabComplete'
+    notification: 'dkbans.chat.notification'
+  punish: 
+    override: 
+      own: 'dkbans.punish.override'
+      all: 'dkbans.bypass.override.all'
+    notify: 'dkbans.punish.notify'
+  command: 
+    teamchat: 
+      receive: 'dkbans.teamchat.receive'
+      send: 'dkbans.teamchat.send'
+    report: 
+      staff: 'dkbans.report.staff'
+    joinme: 'dkbans.joinme'
+    chatClear: 
+      all: 'dkbans.chatClear.all'
+  ping: 
+    other: 'dkbans.ping.other'

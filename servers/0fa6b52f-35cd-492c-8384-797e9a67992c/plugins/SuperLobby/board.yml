@@ -1,0 +1,78 @@
+
+settings-enable: true
+settings-update-title: 3
+settings-world:
+- HUB
+settings-title:
+- '&7< &6&lStarDust &7>'
+- '&7< &6&lStarDust &7>'
+- '&7< &6&lStarDust &7>'
+- '&7> &6&lStarDust &7<'
+- '&7> &6&larDu &7<'
+- '&7> &6&lrD &7<'
+- '&7> &7<'
+- '&7< &6&lrD &7>'
+- '&7< &6&larDu &7>'
+- '&7< &6&lStarDust &7>'
+- '&7< &6&lStarDust &7>'
+- '&7< &e&lS&6&ltarDust &7>'
+- '&7< &6&lS&e&lt&6&larDust &7>'
+- '&7< &6&lSt&e&la&6&lrDust &7>'
+- '&7< &6&lSta&e&lr&6&lDust &7>'
+- '&7< &6&lStar&e&lD&6&lust &7>'
+- '&7< &6&lStarD&e&lu&6&lst &7>'
+- '&7< &6&lStarDu&e&ls&6&lt &7>'
+- '&7< &6&lStarDus&e&lt &7>'
+- '&7< &6&lStarDust &7>'
+board:
+  line1:
+    content:
+    - ' '
+    update: 1000
+  line2:
+    content:
+    - '&6&lName: &4<player>'
+    update: 120
+  line3:
+    content:
+    - '                    '
+    update: 1000
+  line4:
+    content:
+    - '&6&lRank: &4%vault_rank%'
+    update: 1000
+  line5:
+    content:
+    - ' '
+    update: 1000
+  line6:
+    content:
+    - '&6&lCoins: &4SOON'
+    update: 1000
+  line7:
+    content:
+    - ' '
+    update: 1000
+  line8:
+    content:
+    - '&7Buy you rank in st&7_'
+    - '&7uy you rank in sto&8_'
+    - '&7y you rank in stor&7_'
+    - '&7 you rank in store&8_'
+    - '&7you rank in store.&7_'
+    - '&7ou rank in store.s&8_'
+    - '&7u rank in store.st&7_'
+    - '&7 rank in store.sta&8_'
+    - '&7rank in store.star&7_'
+    - '&7ank in store.stard&8_'
+    - '&7nk in store.stardu&7_'
+    - '&7k in store.stardus&8_'
+    - '&7 in store.stardust&7_'
+    - '&7in store.stardust.&8_'
+    - '&7n store.stardust.c&7_'
+    - '&7 store.stardust.co&8_'
+    - '&7store.stardust.com&8_'
+    - '&7store.stardust.com&8_'
+    - '&7store.stardust.com&8_'
+    - '&7store.stardust.com&8_'
+    update: 10

@@ -1,0 +1,52 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 7/11/21, 4:15 PM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: unable to create native thread: possibly out of memory or process/resource limits reached
+	at java.base/java.lang.Thread.start0(Native Method)
+	at java.base/java.lang.Thread.start(Thread.java:800)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:939)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1345)
+	at java.base/java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:687)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncScheduler.mainThreadHeartbeat(CraftAsyncScheduler.java:73)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:450)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1427)
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Linux (amd64) version 5.4.124-1-pve
+	Java Version: 16.0.1, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 1257786536 bytes (1199 MB) / 2269118464 bytes (2164 MB) up to 3984588800 bytes (3800 MB)
+	CPUs: 2
+	JVM Flags: 2 total; -Xms128M -Xmx3800M
+	CraftBukkit Information: 
+   Running: Paper version git-Paper-780 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT) true
+   Plugins: { ColoredSigns v5.0.0 com.github.sirblobman.colored.signs.ColoredSignsPlugin [SirBlobman], PlaceholderAPI v2.10.9 me.clip.placeholderapi.PlaceholderAPIPlugin [HelpChat], ColorConsole v2.3.3* com.github.games647.colorconsole.bukkit.ColorConsoleBukkit [games647, https://github.com/games647/ColorConsole/graphs/contributors], PlugMan v2.2.2 com.rylinaux.plugman.PlugMan [rylinaux, Entity303], PlayTime v2.1.1 me.PCPSells.PlayTimeMain [PCPSells], PostMan v1.3.1* me.MrIronMan.postman.PostMan [MrIronMan], BookNews v5.4 net.legamemc.booknews.Main [LegameMc], PlayerReport v3.4.0 me.PCPSells.PRMain [PCPSells], GSit v[5.3.8.1] me.gsit.main.GSitMain [Gecolay], ViaVersion v4.0.1 com.viaversion.viaversion.ViaVersionPlugin [_MylesC, creeper123123321, Gerrygames, KennyTV, Matsv], NBTAPI v2.8.0 de.tr7zw.nbtapi.plugin.NBTAPI [tr7zw], GHolo v[3.1.5.0] me.gholo.main.GHoloMain [Gecolay], ViaBackwards v4.0.1 com.viaversion.viabackwards.BukkitPlugin [Matsv, KennyTV, Gerrygames, creeper123123321, ForceUpdate1], SimplePortals v1.6.6 xzot1k.plugins.sp.SimplePortals [XZot1K], StaffCore v3.6.2 de.lacodev.rsystem.Main [Laco Development], LuckPerms v5.3.47 me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin [Luck], TheOnly-Donations v3.0.1 me.aglerr.donations.DonationPlugin [aglerr], ServerLog v1.1.3 com.bryan.log.ServerLog [BryanC, PullingHoes (AsentHD)], BuildModeBGHD v3.5* me.noodles.buildmode.main.MainBuildMode [BGHDDevelopment], JSEngine v3.0.4 com.vk2gpz.jsengine.JSEnginePlugin [vk2gpz], TAB-BukkitBridge v1.5.1 me.neznamy.tab.bridge.Main [NEZNAMY], ActionBarAPI v1.5.4 com.connorlinfoot.actionbarapi.ActionBarAPI [], ProtocolLib v4.7.1-SNAPSHOT-b530 com.comphenix.protocol.ProtocolLib [dmulloy2, comphenix], LibsDisguises v10.0.25 me.libraryaddict.disguise.LibsDisguises [libraryaddict, Byteflux, Navid K.], ImageMaps v1.0.7 net.craftcitizen.imagemaps.ImageMaps [SydMontague], PunishGUI v1.0.6* net.bghddevelopment.punishmentgui.PunishGUI [BGHDDevelopment], SignEditor v1.4 de.hendevs.spigotorg.signeditor.main.SignEditor [HenDevs], ServerListPlus v3.4.8* net.minecrell.serverlistplus.bukkit.BukkitPlugin [Minecrell <https://github.com/Minecrell>], PlayerTimeZones v1.0 me.mcay23.PlayerTimeZones.PlayerTimeZones [mcay23], ViaRewind v2.0.1 de.gerrygames.viarewind.BukkitPlugin [Gerrygames], ORewards v1.4.9-STABLE xyz.oadevelopments.orewards.ORewards [rootDeibis], HolographicDisplays v2.4.8 com.gmail.filoghost.holographicdisplays.HolographicDisplays [filoghost], BungeeGuard v1.2-SNAPSHOT me.lucko.bungeeguard.spigot.BungeeGuardBackendPlugin [Luck], ServerSystem v1.6.5 me.Entity303.ServerSystem.Main.ss [Entity303], Vault v1.7.3-b131 net.milkbowl.vault.Vault [cereal, Sleaker, mung3r], PrivateMessages v3.0-Beta6 pl.mirotcz.privatemessages.spigot.PrivateMessages [MiroTcz], PixelVip v3.0.3* br.net.fabiozumbi12.pixelvip.bukkit.PixelVip [FabioZumbi12], BetterSocial v1.2-BETA com.alonsoaliaga.bettersocial.BetterSocial [AlonsoAliaga], EpicRename v3.10 com.gmail.justbru00.epic.rename.main.v3.Main [Justin Brubaker, JustBru00, jayoevans], BetterHeads v1.2-BETA com.alonsoaliaga.betterheads.BetterHeads [AlonsoAliaga], DKBans v1.19.3.501* org.mcnative.resource.GAEBIEJIDFBHJBGJBH.bootstrap.standalone.BukkitMcNativePluginBootstrap [Pretronic], CustomWings v4.0.0 tigeax.customwings.CustomWings [Tigeax], ChatManager v3.7.3 me.h1dd3nxn1nja.chatmanager.Main [H1DD3NxN1NJA], MyCommand v5.7.1 it.emmerrei.mycommand.Main [emmerrei (ivanfromitaly)], GUIPlus v2.8 de.kinglol12345.GUIPlus.BukkitPlugin [kinglol12345], WorldEdit v7.2.5+57d5ac9 com.sk89q.worldedit.bukkit.WorldEditPlugin [], TempFly v3.0.9 com.moneybags.tempfly.TempFly [], WorldEditSUI v1.7.1 eu.kennytv.worldeditsui.WorldEditSUIPlugin [KennyTV], InteractiveChat v4.0.0.13 com.loohp.interactivechat.InteractiveChat [loohp], Admin-GUI v1.5.0 com.rabbitcompany.admingui.AdminGUI [RabbitCompany], AdvancedBan v2.3.0 me.leoko.advancedban.bukkit.BukkitMain [Leoko], SuperLobby v4.3.5 com.pedrojm96.superlobby.SuperLobby [PedroJM96], ItemJoin v5.2.2-RELEASE-b734 me.RockinChaos.itemjoin.ItemJoin [RockinChaos], PlayerParticles v7.20 dev.esophose.playerparticles.PlayerParticles [Esophose], McNative v1.27.1.272* org.mcnative.runtime.bukkit.McNativeDummyPlugin [Pretronic], DKBans v1.19.3.501* org.mcnative.resource.GAEBIEJIDFBHJBGJBH.loaders.injector.bukkit.BukkitDummyPlugin 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException: Cannot invoke "java.util.List.toArray()" because the return value of "org.bukkit.plugin.PluginDescriptionFile.getAuthors()" is null
+	at org.bukkit.craftbukkit.v1_16_R3.CraftCrashReport.call(CraftCrashReport.java:28)
+	at net.minecraft.server.v1_16_R3.CrashReportSystemDetails.a(SourceFile:79)
+	at net.minecraft.server.v1_16_R3.CrashReport.i(CrashReport.java:71)
+	at net.minecraft.server.v1_16_R3.CrashReport.<init>(CrashReport.java:35)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1162)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+	Player Count: 0 / 1000; []
+	Data Packs: vanilla, file/bukkit
+	Is Modded: Definitely; Server brand changed to 'Paper'
+	Type: Dedicated Server (map_server.txt)

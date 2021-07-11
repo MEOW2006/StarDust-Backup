@@ -1,0 +1,183 @@
+##################################
+#
+# CooldownTypes: DAY, HOUR, MINUTE, SECOND 
+#
+# Placeholder by PlaceholderAPI
+# %reward_count% : get player rewards available
+#
+# Placeholder By Plugin:
+# 
+# <player> : Player Name
+# <reward_displayname> : Reward Display Name
+# <reward_id> : Reward Display ID
+# <reward_type> : Reward Coooldown Type
+# <reward_time> : Reward Coooldown Time
+# <reward_permission> : Reward Permission
+#
+# Item ID Player Head Example:
+#
+#   id: PLAYER_HEAD:<BASE64_TEXTURE>
+#
+#
+##################################
+
+Rewards:
+  1:
+    display-name: "&aDaily Reward"
+    slot: 20
+    permission: 'orewards.reward.daily'
+    sounds:
+      available: ENTITY_PLAYER_LEVELUP
+      claimed: BLOCK_ANVIL_LAND
+      permission: ENTITY_VILLAGER_YES
+    cooldown: 
+      type: DAY
+      time: 1
+      format: "&d&lREWARDS&r &d&m->&r You must wait &e%days% %hours% %minutes% %seconds% &r to claim again."
+    states:
+      available: 
+        display-name: "<reward_displayname> &7: &eClaim"
+        id: CHEST_MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every day of the week"
+          - ""
+          - "&7This reward contains:"
+          - "  &fIron Ingot &bx64"
+          - "  &eGold Ingot &bx32"
+          - ""
+          - "&aClick to claim!"
+      permission: 
+        display-name: "<reward_displayname> &7: &cNeed Permission"
+        id: MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every day of the week"
+          - ""
+          - "&7This reward contains:"
+          - "  &fIron Ingot &bx64"
+          - "  &eGold Ingot &bx32"
+          - ""
+          - "&cYou do not have permission to claim"
+      claimed:
+        display-name: "<reward_displayname> &7: &cWaiting..."
+        id: MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every day of the week"
+          - ""
+          - "&7Next reward:"
+          - "&e%days% %hours% %minutes% %seconds%"
+    claim-messages:
+      - "&d&lREWARDS&r &d&m->&r You have claimed your &2&lVIP&r reward"
+    reward:
+      - "give <player> iron_ingot 64"
+      - "give <player> gold_ingot 32"
+  2:
+    display-name: "&aWeekly Reward"
+    slot: 22
+    permission: 'orewards.reward.weekly'
+    sounds:
+      available: ENTITY_PLAYER_LEVELUP
+      claimed: BLOCK_ANVIL_LAND
+      permission: ENTITY_VILLAGER_YES
+    cooldown: 
+      type: DAY
+      time: 7
+      format: "&d&lREWARDS&r &d&m->&r You must wait &e%days% %hours% %minutes% %seconds% &r to claim again."
+    states:
+      available: 
+        display-name: "<reward_displayname> &7: &eClaim"
+        id: CHEST_MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every week"
+          - ""
+          - "&7This reward contains:"
+          - "  &fIron Ingot &bx64"
+          - "  &eGold Ingot &bx64"
+          - "  &aEmerald &bx12"
+          - ""
+          - "&aClick to claim!"
+      permission: 
+        display-name: "<reward_displayname> &7: &cNeed Permission"
+        id: MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every week"
+          - ""
+          - "&7This reward contains:"
+          - "  &fIron Ingot &bx64"
+          - "  &eGold Ingot &bx64"
+          - "  &aEmerald &bx12"
+          - ""
+          - "&cYou do not have permission to claim"
+      claimed:
+        display-name: "<reward_displayname> &7: &cWaiting..."
+        id: MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every day of the week"
+          - ""
+          - "&7Next reward:"
+          - "&e%days% %hours% %minutes% %seconds%"
+    claim-messages:
+      - "&d&lREWARDS&r &d&m->&r You have claimed your &2&lVIP&r reward"
+    reward:
+      - "give <player> iron_ingot 64"
+      - "give <player> gold_ingot 32"
+      - "give <player> emerald 12"
+  3:
+    display-name: "&aMonthly Reward"
+    slot: 24
+    permission: 'orewards.reward.monthly'
+    sounds:
+      available: ENTITY_PLAYER_LEVELUP
+      claimed: BLOCK_ANVIL_LAND
+      permission: ENTITY_VILLAGER_YES
+    cooldown: 
+      type: DAY
+      time: 24
+      format: "&d&lREWARDS&r &d&m->&r You must wait &e%days% %hours% %minutes% %seconds% &r to claim again."
+    states:
+      available: 
+        display-name: "<reward_displayname> &7: &eClaim"
+        id: CHEST_MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every month"
+          - ""
+          - "&7This reward contains:"
+          - "  &fIron Ingot &bx64"
+          - "  &eGold Ingot &bx64"
+          - "  &aEmerald &bx64"
+          - ""
+          - "&aClick to claim!"
+      permission: 
+        display-name: "<reward_displayname> &7: &cNeed Permission"
+        id: MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every month"
+          - ""
+          - "&7This reward contains:"
+          - "  &fIron Ingot &bx64"
+          - "  &eGold Ingot &bx64"
+          - "  &aEmerald &bx64"
+          - ""
+          - "&cYou do not have permission to claim"
+      claimed:
+        display-name: "<reward_displayname> &7: &cWaiting..."
+        id: MINECART
+        data: 0
+        lore: 
+          - "&7Receive this reward every "
+          - ""
+          - "&7Next reward:"
+          - "&e%days% %hours% %minutes% %seconds%"
+    claim-messages:
+      - "&d&lREWARDS&r &d&m->&r You have claimed your &2&lVIP&r reward"
+    reward:
+      - "give <player> iron_ingot 64"
+      - "give <player> gold_ingot 32"
+      - "give <player> emerald 64"      

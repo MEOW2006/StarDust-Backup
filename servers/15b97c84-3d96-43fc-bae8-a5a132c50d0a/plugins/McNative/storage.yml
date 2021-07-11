@@ -1,0 +1,24 @@
+drivers: 
+  default: 
+    location: 'plugins/McNative/databases'
+    driver: 'net.pretronic.databasequery.sql.driver.SQLDatabaseDriver'
+    name: 'Default'
+    dialectName: 'H2Portable'
+    useSSL: false
+  mysql: 
+    address: '172.18.0.1:3306'
+    username: 'plugins'
+    password: '?6Wb$Ypa!m;-pl'
+    driver: 'net.pretronic.databasequery.sql.driver.SQLDatabaseDriver'
+    name: 'MySQL'
+    dialectName: 'MySQL'
+    useSSL: false
+databases: 
+  - pluginName: 'McNative'
+    name: 'default'
+    database: 'McNative'
+    driverName: 'default'
+  - pluginName: 'DKBans'
+    name: 'default'
+    database: 'DKBans'
+    driverName: 'default'

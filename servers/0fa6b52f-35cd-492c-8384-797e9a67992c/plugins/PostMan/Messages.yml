@@ -1,0 +1,26 @@
+# Plugin Made By MrIronMan #
+# Discord: MrIronMan#3419 #
+# Spigot: Mher #
+# Messages File
+
+Prefix: "&6&lPostMan &8→&r"
+
+No-Permission: "%prefix% &cSorry, but you don't have permission to execute this command."
+
+Verification:
+  Pending: "%prefix% &cYour authentication is in pending yet."
+  Occupied: "%prefix% &cThis email address already exists."
+  Already-Set: "%prefix% &cYour email address already set."
+  Invalid-Email: "%prefix% &cThis email address is not valid."
+  Sending-Code: "%prefix% &aSending verification code..."
+  Successfully-Sent: "%prefix% &3Authentication code successfully sent to &b%email% &3, you have 5 minutes to verify it!"
+  Failed: "%prefix% &cFailed to send verification code, please report this to staff team"
+  Already-Verified: "%prefix% &cYour account already verified!"
+  Not-Pending: "%prefix% &cYour authentication is not pending."
+  Auth-Denied: "%prefix% &cYour authentication was denied."
+  Auth-Success: "%prefix% &aYour account was successfully verified!"
+  Wrong-Code: "%prefix% &cThis verification code is wrong!"
+
+Command-Usages:
+  set-email: "%prefix% &cUsage:&7 /SetEmail <YourEmail>"
+  verify-email: "%prefix% &cUsage:&7 /Verify <Code>"

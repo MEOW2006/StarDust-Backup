@@ -1,0 +1,4 @@
+[21:57:58]: MoMeooW changed their gamemode from CREATIVE to SURVIVAL.
+[21:58:01]: MoMeooW changed their gamemode from SURVIVAL to SPECTATOR.
+[21:58:05]: MoMeooW changed their gamemode from SPECTATOR to ADVENTURE.
+[21:58:10]: MoMeooW changed their gamemode from ADVENTURE to CREATIVE.

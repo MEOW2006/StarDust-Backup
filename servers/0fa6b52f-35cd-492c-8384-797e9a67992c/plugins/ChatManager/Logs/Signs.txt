@@ -1,0 +1,12 @@
+[Thu Jul 08 16:36:34 UTC 2021] MoMeooW | Location: X: 106 Y: 4 Z: 91 | Line: 0 | 
+[Thu Jul 08 16:36:34 UTC 2021] MoMeooW | Location: X: 106 Y: 4 Z: 91 | Line: 1 | 
+[Thu Jul 08 16:36:34 UTC 2021] MoMeooW | Location: X: 106 Y: 4 Z: 91 | Line: 2 | 
+[Thu Jul 08 16:36:34 UTC 2021] MoMeooW | Location: X: 106 Y: 4 Z: 91 | Line: 3 | 
+[Fri Jul 09 21:44:21 UTC 2021] MoMeooW | Location: X: -5 Y: 16 Z: 0 | Line: 0 | %player%
+[Fri Jul 09 21:44:21 UTC 2021] MoMeooW | Location: X: -5 Y: 16 Z: 0 | Line: 1 | 
+[Fri Jul 09 21:44:21 UTC 2021] MoMeooW | Location: X: -5 Y: 16 Z: 0 | Line: 2 | 
+[Fri Jul 09 21:44:21 UTC 2021] MoMeooW | Location: X: -5 Y: 16 Z: 0 | Line: 3 | 
+[Fri Jul 09 21:44:49 UTC 2021] MoMeooW | Location: X: -4 Y: 16 Z: 0 | Line: 0 | %player_name%
+[Fri Jul 09 21:44:49 UTC 2021] MoMeooW | Location: X: -4 Y: 16 Z: 0 | Line: 1 | 
+[Fri Jul 09 21:44:49 UTC 2021] MoMeooW | Location: X: -4 Y: 16 Z: 0 | Line: 2 | 
+[Fri Jul 09 21:44:49 UTC 2021] MoMeooW | Location: X: -4 Y: 16 Z: 0 | Line: 3 | 

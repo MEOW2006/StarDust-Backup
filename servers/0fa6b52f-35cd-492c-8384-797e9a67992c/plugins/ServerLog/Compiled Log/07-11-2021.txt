@@ -1,0 +1,422 @@
+[05:50:37]: The TPS is 0.
+[05:50:37]: The current RAM usage is 2553MB / 3800MB (67.18%).
+[05:50:37]: The current player count is 0.
+[05:55:36]: The TPS is 20.
+[05:55:36]: The current RAM usage is 2608MB / 3800MB (68.63%).
+[05:55:36]: The current player count is 0.
+[06:00:36]: The TPS is 20.
+[06:00:36]: The current RAM usage is 2705MB / 3800MB (71.18%).
+[06:00:36]: The current player count is 0.
+[06:05:36]: The TPS is 20.
+[06:05:36]: The current RAM usage is 2544MB / 3800MB (66.95%).
+[06:05:36]: The current player count is 0.
+[06:10:36]: The TPS is 20.
+[06:10:36]: The current RAM usage is 2615MB / 3800MB (68.82%).
+[06:10:36]: The current player count is 0.
+[06:15:36]: The TPS is 20.
+[06:15:36]: The current RAM usage is 2707MB / 3800MB (71.24%).
+[06:15:36]: The current player count is 0.
+[06:20:36]: The TPS is 20.
+[06:20:36]: The current RAM usage is 2502MB / 3800MB (65.84%).
+[06:20:36]: The current player count is 0.
+[06:25:36]: The TPS is 20.
+[06:25:36]: The current RAM usage is 2575MB / 3800MB (67.76%).
+[06:25:36]: The current player count is 0.
+[06:30:36]: The TPS is 20.
+[06:30:36]: The current RAM usage is 2652MB / 3800MB (69.79%).
+[06:30:36]: The current player count is 0.
+[06:35:36]: The TPS is 20.
+[06:35:36]: The current RAM usage is 2724MB / 3800MB (71.68%).
+[06:35:36]: The current player count is 0.
+[06:40:36]: The TPS is 20.
+[06:40:36]: The current RAM usage is 2515MB / 3800MB (66.18%).
+[06:40:36]: The current player count is 0.
+[06:45:36]: The TPS is 20.
+[06:45:36]: The current RAM usage is 2606MB / 3800MB (68.58%).
+[06:45:36]: The current player count is 0.
+[06:50:36]: The TPS is 20.
+[06:50:36]: The current RAM usage is 2700MB / 3800MB (71.05%).
+[06:50:36]: The current player count is 0.
+[06:55:36]: The TPS is 20.
+[06:55:36]: The current RAM usage is 2772MB / 3800MB (72.95%).
+[06:55:36]: The current player count is 0.
+[07:00:36]: The TPS is 20.
+[07:00:36]: The current RAM usage is 2540MB / 3800MB (66.84%).
+[07:00:36]: The current player count is 0.
+[07:05:36]: The TPS is 20.
+[07:05:36]: The current RAM usage is 2611MB / 3800MB (68.71%).
+[07:05:36]: The current player count is 0.
+[07:10:36]: The TPS is 20.
+[07:10:36]: The current RAM usage is 2680MB / 3800MB (70.53%).
+[07:10:36]: The current player count is 0.
+[07:15:36]: The TPS is 20.
+[07:15:36]: The current RAM usage is 2772MB / 3800MB (72.95%).
+[07:15:36]: The current player count is 0.
+[07:20:36]: The TPS is 20.
+[07:20:36]: The current RAM usage is 2535MB / 3800MB (66.71%).
+[07:20:36]: The current player count is 0.
+[07:25:36]: The TPS is 20.
+[07:25:36]: The current RAM usage is 2607MB / 3800MB (68.61%).
+[07:25:36]: The current player count is 0.
+[07:30:36]: The TPS is 20.
+[07:30:36]: The current RAM usage is 2683MB / 3800MB (70.61%).
+[07:30:36]: The current player count is 0.
+[07:35:36]: The TPS is 20.
+[07:35:36]: The current RAM usage is 2753MB / 3800MB (72.45%).
+[07:35:36]: The current player count is 0.
+[07:40:36]: The TPS is 20.
+[07:40:36]: The current RAM usage is 2823MB / 3800MB (74.29%).
+[07:40:36]: The current player count is 0.
+[07:45:36]: The TPS is 20.
+[07:45:36]: The current RAM usage is 2536MB / 3800MB (66.74%).
+[07:45:36]: The current player count is 0.
+[07:50:36]: The TPS is 20.
+[07:50:36]: The current RAM usage is 2631MB / 3800MB (69.24%).
+[07:50:36]: The current player count is 0.
+[07:55:36]: The TPS is 20.
+[07:55:36]: The current RAM usage is 2702MB / 3800MB (71.11%).
+[07:55:36]: The current player count is 0.
+[08:00:36]: The TPS is 20.
+[08:00:36]: The current RAM usage is 2778MB / 3800MB (73.11%).
+[08:00:36]: The current player count is 0.
+[08:05:36]: The TPS is 20.
+[08:05:36]: The current RAM usage is 2848MB / 3800MB (74.95%).
+[08:05:36]: The current player count is 0.
+[08:10:36]: The TPS is 20.
+[08:10:36]: The current RAM usage is 2530MB / 3800MB (66.58%).
+[08:10:36]: The current player count is 0.
+[08:15:36]: The TPS is 20.
+[08:15:36]: The current RAM usage is 2623MB / 3800MB (69.03%).
+[08:15:36]: The current player count is 0.
+[08:20:36]: The TPS is 20.
+[08:20:36]: The current RAM usage is 2718MB / 3800MB (71.53%).
+[08:20:36]: The current player count is 0.
+[08:25:36]: The TPS is 20.
+[08:25:36]: The current RAM usage is 2789MB / 3800MB (73.39%).
+[08:25:36]: The current player count is 0.
+[08:30:36]: The TPS is 20.
+[08:30:36]: The current RAM usage is 2866MB / 3800MB (75.42%).
+[08:30:36]: The current player count is 0.
+[08:35:36]: The TPS is 20.
+[08:35:36]: The current RAM usage is 2938MB / 3800MB (77.32%).
+[08:35:36]: The current player count is 0.
+[08:40:36]: The TPS is 20.
+[08:40:36]: The current RAM usage is 3010MB / 3800MB (79.21%).
+[08:40:36]: The current player count is 0.
+[08:45:36]: The TPS is 20.
+[08:45:36]: The current RAM usage is 2552MB / 3800MB (67.16%).
+[08:45:36]: The current player count is 0.
+[08:50:36]: The TPS is 20.
+[08:50:36]: The current RAM usage is 2649MB / 3800MB (69.71%).
+[08:50:36]: The current player count is 0.
+[08:55:36]: The TPS is 20.
+[08:55:36]: The current RAM usage is 2722MB / 3800MB (71.63%).
+[08:55:36]: The current player count is 0.
+[09:00:36]: The TPS is 20.
+[09:00:36]: The current RAM usage is 2798MB / 3800MB (73.63%).
+[09:00:36]: The current player count is 0.
+[09:05:36]: The TPS is 20.
+[09:05:36]: The current RAM usage is 2869MB / 3800MB (75.5%).
+[09:05:36]: The current player count is 0.
+[09:10:36]: The TPS is 20.
+[09:10:36]: The current RAM usage is 2951MB / 3800MB (77.66%).
+[09:10:36]: The current player count is 0.
+[09:15:36]: The TPS is 20.
+[09:15:36]: The current RAM usage is 3031MB / 3800MB (79.76%).
+[09:15:36]: The current player count is 0.
+[09:20:36]: The TPS is 20.
+[09:20:36]: The current RAM usage is 2544MB / 3800MB (66.95%).
+[09:20:36]: The current player count is 0.
+[09:25:36]: The TPS is 20.
+[09:25:36]: The current RAM usage is 2613MB / 3800MB (68.76%).
+[09:25:36]: The current player count is 0.
+[09:30:36]: The TPS is 20.
+[09:30:36]: The current RAM usage is 2689MB / 3800MB (70.76%).
+[09:30:36]: The current player count is 0.
+[09:35:36]: The TPS is 20.
+[09:35:36]: The current RAM usage is 2762MB / 3800MB (72.68%).
+[09:35:36]: The current player count is 0.
+[09:40:36]: The TPS is 20.
+[09:40:36]: The current RAM usage is 2854MB / 3800MB (75.11%).
+[09:40:36]: The current player count is 0.
+[09:45:36]: The TPS is 20.
+[09:45:36]: The current RAM usage is 2925MB / 3800MB (76.97%).
+[09:45:36]: The current player count is 0.
+[09:50:36]: The TPS is 20.
+[09:50:36]: The current RAM usage is 3025MB / 3800MB (79.61%).
+[09:50:36]: The current player count is 0.
+[09:55:36]: The TPS is 20.
+[09:55:36]: The current RAM usage is 3096MB / 3800MB (81.47%).
+[09:55:36]: The current player count is 0.
+[10:00:36]: The TPS is 20.
+[10:00:36]: The current RAM usage is 3173MB / 3800MB (83.5%).
+[10:00:36]: The current player count is 0.
+[10:05:36]: The TPS is 20.
+[10:05:36]: The current RAM usage is 3243MB / 3800MB (85.34%).
+[10:05:36]: The current player count is 0.
+[10:10:36]: The TPS is 20.
+[10:10:36]: The current RAM usage is 2541MB / 3800MB (66.87%).
+[10:10:36]: The current player count is 0.
+[10:15:36]: The TPS is 20.
+[10:15:36]: The current RAM usage is 2611MB / 3800MB (68.71%).
+[10:15:36]: The current player count is 0.
+[10:20:36]: The TPS is 20.
+[10:20:36]: The current RAM usage is 2708MB / 3800MB (71.26%).
+[10:20:36]: The current player count is 0.
+[10:25:36]: The TPS is 20.
+[10:25:36]: The current RAM usage is 2780MB / 3800MB (73.16%).
+[10:25:36]: The current player count is 0.
+[10:30:36]: The TPS is 20.
+[10:30:36]: The current RAM usage is 2859MB / 3800MB (75.24%).
+[10:30:36]: The current player count is 0.
+[10:35:36]: The TPS is 20.
+[10:35:36]: The current RAM usage is 2930MB / 3800MB (77.11%).
+[10:35:36]: The current player count is 0.
+[10:40:36]: The TPS is 20.
+[10:40:36]: The current RAM usage is 2510MB / 3800MB (66.05%).
+[10:40:36]: The current player count is 0.
+[10:45:36]: The TPS is 20.
+[10:45:36]: The current RAM usage is 2580MB / 3800MB (67.89%).
+[10:45:36]: The current player count is 0.
+[10:50:36]: The TPS is 20.
+[10:50:36]: The current RAM usage is 2679MB / 3800MB (70.5%).
+[10:50:36]: The current player count is 0.
+[10:55:36]: The TPS is 20.
+[10:55:36]: The current RAM usage is 2752MB / 3800MB (72.42%).
+[10:55:36]: The current player count is 0.
+[11:00:36]: The TPS is 20.
+[11:00:36]: The current RAM usage is 2831MB / 3800MB (74.5%).
+[11:00:36]: The current player count is 0.
+[11:05:36]: The TPS is 20.
+[11:05:36]: The current RAM usage is 2905MB / 3800MB (76.45%).
+[11:05:36]: The current player count is 0.
+[11:10:36]: The TPS is 20.
+[11:10:36]: The current RAM usage is 3001MB / 3800MB (78.97%).
+[11:10:36]: The current player count is 0.
+[11:15:36]: The TPS is 20.
+[11:15:36]: The current RAM usage is 3072MB / 3800MB (80.84%).
+[11:15:36]: The current player count is 0.
+[11:20:36]: The TPS is 20.
+[11:20:36]: The current RAM usage is 2563MB / 3800MB (67.45%).
+[11:20:36]: The current player count is 0.
+[11:25:36]: The TPS is 20.
+[11:25:36]: The current RAM usage is 2637MB / 3800MB (69.39%).
+[11:25:36]: The current player count is 0.
+[11:30:36]: The TPS is 20.
+[11:30:36]: The current RAM usage is 2716MB / 3800MB (71.47%).
+[11:30:36]: The current player count is 0.
+[11:35:36]: The TPS is 20.
+[11:35:36]: The current RAM usage is 2790MB / 3800MB (73.42%).
+[11:35:36]: The current player count is 0.
+[11:40:36]: The TPS is 20.
+[11:40:36]: The current RAM usage is 2892MB / 3800MB (76.11%).
+[11:40:36]: The current player count is 0.
+[11:45:36]: The TPS is 20.
+[11:45:36]: The current RAM usage is 2965MB / 3800MB (78.03%).
+[11:45:36]: The current player count is 0.
+[11:50:36]: The TPS is 20.
+[11:50:36]: The current RAM usage is 3066MB / 3800MB (80.68%).
+[11:50:36]: The current player count is 0.
+[11:55:36]: The TPS is 20.
+[11:55:36]: The current RAM usage is 3142MB / 3800MB (82.68%).
+[11:55:36]: The current player count is 0.
+[12:00:36]: The TPS is 20.
+[12:00:36]: The current RAM usage is 3221MB / 3800MB (84.76%).
+[12:00:36]: The current player count is 0.
+[12:05:36]: The TPS is 20.
+[12:05:36]: The current RAM usage is 3293MB / 3800MB (86.66%).
+[12:05:36]: The current player count is 0.
+[12:10:36]: The TPS is 20.
+[12:10:36]: The current RAM usage is 3393MB / 3800MB (89.29%).
+[12:10:36]: The current player count is 0.
+[12:15:36]: The TPS is 20.
+[12:15:36]: The current RAM usage is 3479MB / 3800MB (91.55%).
+[12:15:36]: The current player count is 0.
+[12:17:49]: i_MaRTiin joined from the IP 197.46.46.75.
+[12:17:49]: i_MaRTiin teleported to 0, 16, -1.
+[12:17:59]: i_MaRTiin teleported to 0, 6, -1.
+[12:18:00]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:01]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:01]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:02]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:04]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:04]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:05]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:05]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:05]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:06]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:06]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:07]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:07]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:08]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:08]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:08]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:09]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:09]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:09]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:10]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:10]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:11]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:11]: i_MaRTiin teleported to 0, 1, -1.
+[12:18:59]: i_MaRTiin said -> فف.
+[12:19:00]: i_MaRTiin said -> tt.
+[12:19:08]: i_MaRTiin ran the command /menu.
+[12:19:13]: i_MaRTiin ran the command /menu.
+[12:19:16]: i_MaRTiin ran the command /slmenuopen#game.
+[12:19:29]: i_MaRTiin ran the command /slmenuopen#menu.
+[12:19:31]: i_MaRTiin ran the command /slmenuopen#profile.
+[12:19:39]: i_MaRTiin ran the command /game.
+[12:19:42]: i_MaRTiin ran the command /profile.
+[12:20:14]: i_MaRTiin dropped the item ★  Game Modes ★  (Right button) (MILK_BUCKET).
+[12:20:16]: i_MaRTiin picked up the item ★  Game Modes ★  (Right button) (MILK_BUCKET).
+[12:20:17]: i_MaRTiin ran the command /game.
+[12:20:30]: i_MaRTiin ran the command /.
+[12:20:32]: i_MaRTiin ran the command /tt.
+[12:20:36]: The TPS is 20.
+[12:20:36]: The current RAM usage is 3202MB / 3800MB (84.26%).
+[12:20:36]: The current player count is 1.
+[12:20:37]: i_MaRTiin ran the command /uhc.
+[12:20:42]: i_MaRTiin ran the command /bung.
+[12:20:44]: i_MaRTiin ran the command /bunge.
+[12:20:46]: i_MaRTiin ran the command /help.
+[12:20:54]: i_MaRTiin ran the command /pl.
+[12:21:05]: i_MaRTiin ran the command /profile.
+[12:21:10]: i_MaRTiin ran the command /profile.
+[12:21:20]: i_MaRTiin ran the command /profile.
+[12:21:35]: i_MaRTiin ran the command /menu.
+[12:21:42]: i_MaRTiin ran the command /menu.
+[12:22:40]: i_MaRTiin quit at the location 12, 14, 146. Their IP was 197.46.46.75.
+[12:25:36]: The TPS is 20.
+[12:25:36]: The current RAM usage is 3522MB / 3800MB (92.68%).
+[12:25:36]: The current player count is 0.
+[12:30:36]: The TPS is 20.
+[12:30:36]: The current RAM usage is 2544MB / 3800MB (66.95%).
+[12:30:36]: The current player count is 0.
+[12:35:36]: The TPS is 20.
+[12:35:36]: The current RAM usage is 2578MB / 3800MB (67.84%).
+[12:35:36]: The current player count is 0.
+[12:40:36]: The TPS is 20.
+[12:40:36]: The current RAM usage is 2637MB / 3800MB (69.39%).
+[12:40:36]: The current player count is 0.
+[12:43:29]: i_MaRTiin joined from the IP 197.46.46.75.
+[12:43:29]: i_MaRTiin teleported to 0, 16, -1.
+[12:43:31]: i_MaRTiin teleported to 0, 1, -1.
+[12:43:32]: i_MaRTiin teleported to 0, 1, -1.
+[12:43:41]: i_MaRTiin ran the command /INGO.
+[12:43:44]: i_MaRTiin ran the command /INFO.
+[12:43:49]: i_MaRTiin ran the command /tool info.
+[12:45:36]: The TPS is 20.
+[12:45:36]: The current RAM usage is 3014MB / 3800MB (79.32%).
+[12:45:36]: The current player count is 1.
+[12:50:36]: The TPS is 20.
+[12:50:36]: The current RAM usage is 3436MB / 3800MB (90.42%).
+[12:50:36]: The current player count is 1.
+[12:55:36]: The TPS is 20.
+[12:55:36]: The current RAM usage is 2847MB / 3800MB (74.92%).
+[12:55:36]: The current player count is 1.
+[13:00:36]: The TPS is 20.
+[13:00:36]: The current RAM usage is 3256MB / 3800MB (85.68%).
+[13:00:36]: The current player count is 1.
+[13:05:36]: The TPS is 20.
+[13:05:36]: The current RAM usage is 2679MB / 3800MB (70.5%).
+[13:05:36]: The current player count is 1.
+[13:10:36]: The TPS is 20.
+[13:10:36]: The current RAM usage is 3109MB / 3800MB (81.82%).
+[13:10:36]: The current player count is 1.
+[13:15:36]: The TPS is 20.
+[13:15:36]: The current RAM usage is 3537MB / 3800MB (93.08%).
+[13:15:36]: The current player count is 1.
+[13:20:36]: The TPS is 20.
+[13:20:36]: The current RAM usage is 2966MB / 3800MB (78.05%).
+[13:20:36]: The current player count is 1.
+[13:25:36]: The TPS is 20.
+[13:25:36]: The current RAM usage is 3372MB / 3800MB (88.74%).
+[13:25:36]: The current player count is 1.
+[13:30:36]: The TPS is 20.
+[13:30:36]: The current RAM usage is 2787MB / 3800MB (73.34%).
+[13:30:36]: The current player count is 1.
+[13:35:36]: The TPS is 20.
+[13:35:36]: The current RAM usage is 3191MB / 3800MB (83.97%).
+[13:35:36]: The current player count is 1.
+[13:40:36]: The TPS is 20.
+[13:40:36]: The current RAM usage is 2626MB / 3800MB (69.11%).
+[13:40:36]: The current player count is 1.
+[13:45:36]: The TPS is 20.
+[13:45:36]: The current RAM usage is 3056MB / 3800MB (80.42%).
+[13:45:36]: The current player count is 1.
+[13:50:36]: The TPS is 20.
+[13:50:36]: The current RAM usage is 3467MB / 3800MB (91.24%).
+[13:50:36]: The current player count is 1.
+[13:55:36]: The TPS is 20.
+[13:55:36]: The current RAM usage is 2873MB / 3800MB (75.61%).
+[13:55:36]: The current player count is 1.
+[14:00:36]: The TPS is 20.
+[14:00:36]: The current RAM usage is 3284MB / 3800MB (86.42%).
+[14:00:36]: The current player count is 1.
+[14:05:36]: The TPS is 20.
+[14:05:36]: The current RAM usage is 2694MB / 3800MB (70.89%).
+[14:05:36]: The current player count is 1.
+[14:10:36]: The TPS is 20.
+[14:10:36]: The current RAM usage is 3124MB / 3800MB (82.21%).
+[14:10:36]: The current player count is 1.
+[14:15:36]: The TPS is 20.
+[14:15:36]: The current RAM usage is 2556MB / 3800MB (67.26%).
+[14:15:36]: The current player count is 1.
+[14:20:36]: The TPS is 20.
+[14:20:36]: The current RAM usage is 2966MB / 3800MB (78.05%).
+[14:20:36]: The current player count is 1.
+[14:25:36]: The TPS is 20.
+[14:25:36]: The current RAM usage is 3370MB / 3800MB (88.68%).
+[14:25:36]: The current player count is 1.
+[14:28:35]: i_MaRTiin ran the command /sethub.
+[14:28:37]: i_MaRTiin ran the command /hub.
+[14:28:41]: i_MaRTiin ran the command /lobby.
+[14:28:44]: i_MaRTiin ran the command /setspawn.
+[14:28:51]: i_MaRTiin ran the command /setworldspawn.
+[14:28:57]: i_MaRTiin quit at the location 2, 31, 138. Their IP was 197.46.46.75.
+[14:29:08]: i_MaRTiin joined from the IP 197.46.46.75.
+[14:29:08]: i_MaRTiin teleported to 0, 16, -1.
+[14:29:19]: i_MaRTiin ran the command /spawn.
+[14:29:35]: i_MaRTiin ran the command /speed 15.
+[14:30:36]: The TPS is 20.
+[14:30:36]: The current RAM usage is 2907MB / 3800MB (76.5%).
+[14:30:36]: The current player count is 1.
+[14:35:36]: The TPS is 20.
+[14:35:36]: The current RAM usage is 3288MB / 3800MB (86.53%).
+[14:35:36]: The current player count is 1.
+[14:40:36]: The TPS is 20.
+[14:40:36]: The current RAM usage is 2688MB / 3800MB (70.74%).
+[14:40:36]: The current player count is 1.
+[14:45:36]: The TPS is 20.
+[14:45:36]: The current RAM usage is 3083MB / 3800MB (81.13%).
+[14:45:36]: The current player count is 1.
+[14:50:36]: The TPS is 20.
+[14:50:36]: The current RAM usage is 3454MB / 3800MB (90.89%).
+[14:50:36]: The current player count is 1.
+[14:55:36]: The TPS is 20.
+[14:55:36]: The current RAM usage is 2845MB / 3800MB (74.87%).
+[14:55:36]: The current player count is 1.
+[14:58:21]: The TPS is 0.
+[14:58:21]: The current RAM usage is 2342MB / 3800MB (61.63%).
+[14:58:21]: The current player count is 0.
+[15:24:00]: The TPS is 0.
+[15:24:00]: The current RAM usage is 1813MB / 3800MB (47.71%).
+[15:24:01]: The current player count is 0.
+[15:46:09]: The TPS is 0.
+[15:46:10]: The current RAM usage is 1909MB / 3800MB (50.24%).
+[15:46:14]: The current player count is 0.
+[16:11:21]: The TPS is 0.
+[16:11:21]: The current RAM usage is 1985MB / 3800MB (52.24%).
+[16:11:21]: The current player count is 0.
+[16:15:39]: The TPS is 0.
+[16:15:39]: The current RAM usage is 2542MB / 3800MB (66.89%).
+[16:15:39]: The current player count is 0.
+[16:18:18]: The TPS is 0.
+[16:18:18]: The current RAM usage is 2316MB / 3800MB (60.95%).
+[16:18:19]: The current player count is 0.
+[16:23:17]: The TPS is 20.
+[16:23:17]: The current RAM usage is 2271MB / 3800MB (59.76%).
+[16:23:17]: The current player count is 0.
+[16:28:17]: The TPS is 20.
+[16:28:17]: The current RAM usage is 2370MB / 3800MB (62.37%).
+[16:28:17]: The current player count is 0.

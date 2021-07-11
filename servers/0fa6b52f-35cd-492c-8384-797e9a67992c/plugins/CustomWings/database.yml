@@ -1,0 +1,16 @@
+# Stores player's equipped wing and other settings when the server restarts or player disconnects
+
+
+
+
+
+
+
+
+
+
+f080806c-445a-4be2-b068-39eb90fc4b86:
+  hideOtherWings: false
+1618972e-a455-40ce-95e6-6ac38abf36b3: {}
+19d30783-eb36-40eb-a9a2-a5d505a24731:
+  hideOtherWings: false

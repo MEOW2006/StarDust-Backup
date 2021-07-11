@@ -1,0 +1,188 @@
+General:
+  System-Prefix: '&cSystem &8%double_arrow% '
+  Custom-Messages:
+    Enable: false
+    Rest-API-Key: '{Your API-Key from the Dashboard}'
+  Language: de
+  MySQL:
+    Debug: true
+  Activate-BanSystem-Detection: false
+  Include-Worldname: false
+  Include-Vault: false
+  Include-ActionBarAPI: false
+  Include-MatrixAntiCheat: false
+  Include-SpartanAntiCheat: false
+  Force-SpectatorMode: true
+  Sync-with-WebInterface: false
+MCLeaks-Blocker:
+  Enable: true
+  Cache-Updater:
+    Enable: true
+    Period-In-Minutes: 10
+Ban-System:
+  Enable: true
+  Per-Reason-Permission:
+    Enable: true
+    Prefix-For-Permission: rsystem.ban.reason.
+Mute-System:
+  Per-Reason-Permission:
+    Enable: true
+    Prefix-For-Permission: rsystem.mute.reason.
+Ban-Animation:
+  Enable: true
+  Type: GUARDIAN
+  Sound: ENTITY_ENDER_DRAGON_DEATH
+Vault:
+  Rewards:
+    Report:
+      MIN: 50
+      MAX: 150
+Report-Spam:
+  Duration-in-Seconds: 20
+TicketSystem:
+  Cooldown-In-Seconds: 120
+  WebInterface-URL: https://yourserver.com/Web-UI-v3.5.0/dashboard/tickets/view/?id=
+MatrixAntiCheat:
+  Autoreport:
+    Enable: false
+    Name: MatrixAC
+    Log:
+      Reset-Violations-On-Join: true
+SpartanAntiCheat:
+  Autoreport:
+    Enable: false
+    Name: SpartanAC
+    Log:
+      Reset-Violations-On-Join: true
+Unpermitted-OP:
+  Kick-Player:
+    Enable: true
+IP-Ban:
+  Ban-IP-When-Player-Gets-Banned: false
+  Duration-in-Hours: 24
+Permissions:
+  Everything: rsystem.*
+  System:
+    Notify: rsystem.notify
+    Adminpanel: rsystem.adminpanel
+  Allow-OP:
+    Join: rsystem.op.allow
+    Notify: rsystem.op.notify
+  IpBan:
+    Use: rsystem.ipban.use
+    Notify: rsystem.ipban.notify
+  IpUnBan:
+    Use: rsystem.ipunban.use
+    Notify: rsystem.ipunban.notify
+  Report:
+    Notify: rsystem.report.notify
+    Claim: rsystem.report.claim
+    Spam:
+      Bypass: rsystem.report.spam.bypass
+  ReportManager:
+    addreason: rsystem.reportmanager.addreason
+    removereason: rsystem.reportmanager.removereason
+  Reports:
+    See: rsystem.reports.see
+  Check:
+    Use: rsystem.check.use
+  BanManager:
+    addreason: rsystem.banmanager.addreason
+    removereason: rsystem.banmanager.removereason
+    editreason: rsystem.banmanager.editreason
+  Ban:
+    Use: rsystem.ban.use
+    Notify: rsystem.ban.notify
+    List: rsystem.ban.list
+  Mute:
+    Use: rsystem.mute.use
+    Notify: rsystem.mute.notify
+    Global:
+      Change: rsystem.mute.global.change
+      Write: rsystem.mute.global.write
+  UnBan:
+    Use: rsystem.unban.use
+    Notify: rsystem.unban.notify
+  UnMute:
+    Use: rsystem.unmute.use
+    Notify: rsystem.unmute.notify
+  Chatfilter:
+    Manage: rsystem.chatfilter.manage
+  ChatLog:
+    Notify: rsystem.chatlog.notify
+  BanHistory:
+    See: rsystem.banhistory.see
+  CheckAlts:
+    Use: rsystem.checkalts.use
+  Warn:
+    Use: rsystem.warn.use
+    Notify: rsystem.warn.notify
+  Warns:
+    See: rsystem.warns.see
+  ChatLogs:
+    Use: rsystem.chatlogs.use
+  Chat:
+    Clear: rsystem.chatclear.clear
+    Bypass: rsystem.chatclear.bypass
+  BroadCast:
+    Send: rsystem.broadcast.send
+  StaffChat:
+    Read: rsystem.staffchat.read
+    Write: rsystem.staffchat.write
+  Maintenance:
+    Change: rsystem.maintenance.change
+    Join: rsystem.maintenance.join
+Chatfilter:
+  ReporterName: ChatController
+  Cursed-Words:
+    Match-for-action-in-Percentage: 50
+    AutoReport:
+      Enable: true
+      Reason: Insult
+    Block-Message:
+      Enable: true
+  Advertisment:
+    AutoReport:
+      Enable: true
+      Reason: Advertisment
+    Block-Message:
+      Enable: true
+    Whitelist:
+    - yourserver.de
+    - forum.yourserver.de
+    - ts.yourserver.de
+    - shop.yourserver.de
+    Blocked-Domains:
+    - .ac
+    - .ad
+    - .ae
+    - .aero
+    - .af
+    - .ag
+    - .ai
+    - .al
+    - .am
+    - .an
+    - .am
+    - .an
+    - .ao
+    - .aq
+    - .ar
+    - .as
+    - .asia
+    - .at
+    - .au
+    - .aw
+    - .ax
+    - .az
+    - .de
+    - .com
+    - .net
+    - .org
+    - .eu
+    - .be
+    - .nl
+    - .me
+    - .ch
+    - .info
+    - .dev
